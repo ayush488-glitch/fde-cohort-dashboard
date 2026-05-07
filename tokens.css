@@ -155,3 +155,162 @@ button { font-family: inherit; cursor: pointer; }
 }
 .eyebrow-on-dark { color: var(--on-dark-muted); }
 .eyebrow-blue { color: var(--primary); }
+
+/* ── Responsive: tablet ≤ 900px ─────────────────────────────────────── */
+@media (max-width: 900px) {
+  /* Reduce horizontal section padding */
+  section[style*="64px 64px"],
+  section[style*="80px 64px"],
+  section[style*="96px 64px"],
+  section[style*="112px 64px"],
+  section[style*="120px 64px"],
+  section[style*="72px 64px"],
+  footer[style*="48px 64px"] {
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+  }
+  /* 4-col grids → 2-col */
+  div[style*="grid-template-columns: repeat(4, 1fr)"] {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  /* 2-col side-by-side → single col */
+  div[style*="grid-template-columns: 1.2fr 1fr"],
+  div[style*="grid-template-columns: 1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ── Responsive: mobile ≤ 640px ─────────────────────────────────────── */
+@media (max-width: 640px) {
+  /* Tighter horizontal padding */
+  section[style*="64px 64px"],
+  section[style*="80px 64px"],
+  section[style*="96px 64px"],
+  section[style*="112px 64px"],
+  section[style*="120px 64px"],
+  section[style*="72px 64px"],
+  footer[style*="48px 64px"] {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 64px !important;
+    padding-bottom: 56px !important;
+  }
+  /* All multi-col grids → single col */
+  div[style*="grid-template-columns: repeat(4, 1fr)"],
+  div[style*="grid-template-columns: repeat(3, 1fr)"],
+  div[style*="grid-template-columns: repeat(2, 1fr)"] {
+    grid-template-columns: 1fr !important;
+  }
+  /* Hero stat row borders: switch right-borders to bottom-borders when stacked */
+  div[style*="repeat(4, 1fr)"] > div[style*="border-right"],
+  div[style*="repeat(3, 1fr)"] > div[style*="border-right"] {
+    border-right: none !important;
+    border-bottom: 1px solid var(--hairline-on-dark) !important;
+    padding-right: 0 !important;
+    padding-bottom: 24px !important;
+    padding-top: 24px !important;
+  }
+  div[style*="repeat(4, 1fr)"] > div:last-child,
+  div[style*="repeat(3, 1fr)"] > div:last-child {
+    border-bottom: none !important;
+  }
+  /* Funnel & leaderboard rows: stack the 4-column grids */
+  div[style*="grid-template-columns: 220px 1fr"],
+  div[style*="grid-template-columns: 60px 1fr"],
+  div[style*="grid-template-columns: 1fr 130px"] {
+    grid-template-columns: 1fr !important;
+    gap: 8px !important;
+  }
+  div[style*="grid-template-columns: 180px 1fr"] {
+    grid-template-columns: 1fr 60px !important;
+  }
+  /* Big hero numerals */
+  .hero-numeral, .hero-numeral-thin {
+    font-size: clamp(40px, 11vw, 56px) !important;
+  }
+  /* Pipeline value range — let it wrap */
+  span[style*="clamp(72px, 8vw, 120px)"],
+  span[style*="clamp(72px, 9vw, 140px)"] {
+    font-size: clamp(40px, 12vw, 64px) !important;
+    display: inline-block;
+  }
+  /* h1/h2 down a notch */
+  h1[style*="clamp(56px"] { font-size: clamp(40px, 9vw, 56px) !important; }
+  h2[style*="clamp(40px"] { font-size: clamp(28px, 7vw, 40px) !important; }
+  /* Pipeline pull-quote flex stack */
+  div[style*="justify-content: space-between"][style*="align-items: flex-end"] {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 24px !important;
+  }
+  /* Donut + sentiment list inside Reply Intel — stack */
+  div[style*="display: flex"][style*="gap: 36px"][style*="align-items: center"] {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 24px !important;
+  }
+  /* SectionHead and timeline cards: prevent fixed widths from bleeding */
+  svg[viewBox] { max-width: 100% !important; height: auto !important; }
+  /* Footer: stack and let copy wrap */
+  footer > div[style*="justify-content: space-between"] {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 16px !important;
+  }
+  /* Caveat badge popover: keep within viewport */
+  div[style*="width: 380px"] {
+    width: calc(100vw - 60px) !important;
+    max-width: 380px !important;
+  }
+  /* Top nav: collapse extra space */
+  nav, header { font-size: 13px !important; }
+  /* Hero-name size — Abhijeet P. Singh @ 96px wraps weirdly on mobile */
+  h1[style*="clamp(56px, 7vw, 96px)"] {
+    font-size: clamp(36px, 9vw, 56px) !important;
+  }
+  /* Cohort directory cards already use auto-fill minmax(280px) — keep, already responsive */
+  /* Funnel row: label spans full width on top, bar+value on second row, % hidden */
+  div[style*="grid-template-columns: 220px 1fr 110px 110px"] {
+    grid-template-columns: 1fr 80px !important;
+    grid-template-rows: auto auto !important;
+    gap: 4px 12px !important;
+  }
+  div[style*="grid-template-columns: 220px 1fr 110px 110px"] > div:nth-child(1) {
+    grid-column: 1 / -1 !important;
+  }
+  div[style*="grid-template-columns: 220px 1fr 110px 110px"] > div:nth-child(4) {
+    display: none !important;
+  }
+}
+
+/* ── Tiny phones ≤ 380px ───────────────────────────────────────────── */
+@media (max-width: 380px) {
+  section[style*="64px"],
+  section[style*="80px"],
+  section[style*="96px"],
+  section[style*="112px"],
+  section[style*="120px"] {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+}
+
+/* ── Hide horizontal overflow at body level ─────────────────────────── */
+html, body { overflow-x: hidden; max-width: 100vw; }
+
+/* Decorative radial-gradient backgrounds: don't let them push body width */
+section > div[style*="radial-gradient"] { max-width: 100vw !important; }
+
+/* ── Mobile nav fixes ≤ 640px ──────────────────────────────────────── */
+@media (max-width: 640px) {
+  /* Hide date label + extra nav links on mobile to free space */
+  header > div[style*="margin-left: auto"] > span { display: none !important; }
+  header > nav > button:nth-child(n+3) { display: none !important; }
+  header > nav { gap: 16px !important; margin-left: 18px !important; }
+  /* Switch student popover on mobile: full-width */
+  div[style*="position: absolute"][style*="width: 380px"] {
+    width: calc(100vw - 24px) !important;
+    right: 12px !important;
+    left: 12px !important;
+  }
+}

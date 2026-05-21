@@ -34,19 +34,45 @@ function App() {
 function PrivacyBanner() {
   return (
     <div style={{
-      background: "#111", color: "#fff", padding: "14px 24px",
-      fontSize: 14, lineHeight: 1.5, textAlign: "center",
+      background: "#111", color: "#fff", padding: "18px 24px",
+      fontSize: 14, lineHeight: 1.6, textAlign: "left",
       borderBottom: "1px solid rgba(255,255,255,0.08)",
     }}>
-      <strong style={{ letterSpacing: "-0.01em" }}>Student names on this page are masked.</strong>{" "}
-      We changed this because some visitors were using student identities here to cold-message them
-      directly — including people with no real intent beyond spamming or chasing pirated course
-      material. To protect our students, we no longer publish their names.{" "}
-      <span style={{ color: "#9ad" }}>
-        If you genuinely want to connect with a student, please reach out to your Antern counselor.
-        The counselor will verify your intent and then personally introduce you to the relevant
-        student(s) from our cohort.
-      </span>
+      <div style={{ maxWidth: 1100, margin: "0 auto" }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", flexWrap: "wrap", gap: 12, marginBottom: 10 }}>
+          <strong style={{ letterSpacing: "-0.01em", fontSize: 15 }}>
+            Student names on this page are masked.
+          </strong>
+          <span style={{ color: "#888", fontSize: 12, textTransform: "uppercase", letterSpacing: "0.08em" }}>
+            Updated through Week 6 of the cohort
+          </span>
+        </div>
+        <p style={{ margin: "0 0 10px" }}>
+          We published this dashboard in the spirit of full transparency — to show, openly and
+          honestly, what kind of opportunities our students are generating. We assumed visitors
+          would meet that openness with the same generosity we extend to our students. That has
+          not been the case.
+        </p>
+        <p style={{ margin: "0 0 10px" }}>
+          Names were being lifted from this page and used to cold-message students directly —
+          spam, repeated unsolicited questions, and even requests for pirated course material.
+          One of our students recently came to us, exhausted, saying they are genuinely tired of
+          answering the same questions again and again. <strong>That is not a cost we are willing
+          to pass on to them.</strong> Whether a student lands a role or not, we will publish that
+          outcome here ourselves — there is no reason for anyone to chase them privately to find out.
+        </p>
+        <p style={{ margin: "0 0 10px" }}>
+          We think extraordinarily highly of every student in this cohort. They earned their place
+          here through work, not by signing up to be a public inbox. If the only way to protect
+          them from being spammed is to mask their identities, the responsibility for that sits
+          squarely with the people who abused the trust — not with us, and certainly not with them.
+        </p>
+        <p style={{ margin: 0, color: "#9ad" }}>
+          If you have a genuine reason to connect with a student, please contact your Antern
+          counselor. The counselor will verify intent and personally introduce you to the
+          relevant student(s) from our cohort. That is the only route.
+        </p>
+      </div>
     </div>
   );
 }

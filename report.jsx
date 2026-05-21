@@ -59,7 +59,7 @@ function ReportCard({ report, onBack }) {
                 Holding the report until lean fixes land.
               </h2>
               <p style={{ marginTop: 22, fontSize: 18, color: "var(--ink-muted-60)", lineHeight: 1.55 }}>
-                {r.student.name.split(" ")[0]} is in a coaching pass on LinkedIn presence and messaging.
+                {r.student.name} is in a coaching pass on LinkedIn presence and messaging.
                 The full report — funnel, conversations, projections — will publish after the session.
               </p>
             </div>

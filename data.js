@@ -7,28 +7,26 @@ window.COHORT = [
     "id": "student_01",
     "name": "Student 01",
     "rankAcc": 2,
-    "rankPos": 1,
+    "rankPos": 2,
     "rankMtg": 1,
     "hasReport": true,
-    "accept": 24.6,
+    "accept": 26.4,
     "positive": 16,
-    "meetings": 7,
-    "accepted": 140,
-    "sent": 570
+    "meetings": 8,
+    "accepted": 320, "sent": 1212
   },
   {
     "bucket": "in_conversation",
     "id": "student_02",
     "name": "Student 02",
-    "rankAcc": 26,
-    "rankPos": 2,
-    "rankMtg": 2,
+    "rankAcc": 13,
+    "rankPos": 1,
+    "rankMtg": 10,
     "hasReport": true,
-    "accept": 15.9,
-    "positive": 13,
-    "meetings": 6,
-    "accepted": 90,
-    "sent": 565
+    "accept": 21.1,
+    "positive": 19,
+    "meetings": 3,
+    "accepted": 255, "sent": 1208
   },
   {
     "bucket": "in_conversation",
@@ -36,487 +34,457 @@ window.COHORT = [
     "name": "Student 03",
     "rankAcc": 3,
     "rankPos": 3,
-    "rankMtg": 10,
+    "rankMtg": 11,
     "hasReport": true,
-    "accept": 24.2,
-    "positive": 13,
-    "meetings": 2,
-    "accepted": 137,
-    "sent": 565
+    "accept": 25.5,
+    "positive": 15,
+    "meetings": 3,
+    "accepted": 211, "sent": 828
   },
   {
     "bucket": "in_conversation",
     "id": "student_04",
     "name": "Student 04",
     "rankAcc": 1,
-    "rankPos": 4,
-    "rankMtg": 3,
+    "rankPos": 11,
+    "rankMtg": 4,
     "hasReport": true,
-    "accept": 25.9,
-    "positive": 12,
+    "accept": 27.7,
+    "positive": 10,
     "meetings": 5,
-    "accepted": 147,
-    "sent": 568
+    "accepted": 322, "sent": 1161
   },
   {
     "bucket": "in_conversation",
     "id": "student_05",
     "name": "Student 05",
-    "rankAcc": 9,
-    "rankPos": 5,
-    "rankMtg": 30,
+    "rankAcc": 7,
+    "rankPos": 12,
+    "rankMtg": 12,
     "hasReport": true,
-    "accept": 20.8,
-    "positive": 10,
-    "meetings": 0,
-    "accepted": 117,
-    "sent": 562
+    "accept": 22.6,
+    "positive": 9,
+    "meetings": 3,
+    "accepted": 274, "sent": 1210
   },
   {
     "bucket": "in_conversation",
     "id": "student_06",
     "name": "Student 06",
-    "rankAcc": 25,
-    "rankPos": 6,
-    "rankMtg": 22,
+    "rankAcc": 24,
+    "rankPos": 5,
+    "rankMtg": 6,
     "hasReport": true,
-    "accept": 16.4,
-    "positive": 9,
-    "meetings": 1,
-    "accepted": 92,
-    "sent": 561
+    "accept": 18.8,
+    "positive": 13,
+    "meetings": 4,
+    "accepted": 227, "sent": 1206
   },
   {
     "bucket": "in_conversation",
     "id": "student_07",
     "name": "Student 07",
-    "rankAcc": 14,
+    "rankAcc": 23,
     "rankPos": 7,
-    "rankMtg": 31,
+    "rankMtg": 16,
     "hasReport": true,
-    "accept": 19.3,
-    "positive": 9,
-    "meetings": 0,
-    "accepted": 109,
-    "sent": 565
+    "accept": 18.9,
+    "positive": 11,
+    "meetings": 2,
+    "accepted": 224, "sent": 1188
   },
   {
     "bucket": "in_conversation",
     "id": "student_08",
     "name": "Student 08",
-    "rankAcc": 11,
-    "rankPos": 8,
-    "rankMtg": 33,
+    "rankAcc": 19,
+    "rankPos": 16,
+    "rankMtg": 21,
     "hasReport": true,
-    "accept": 19.6,
-    "positive": 9,
-    "meetings": 0,
-    "accepted": 109,
-    "sent": 555
+    "accept": 20.0,
+    "positive": 7,
+    "meetings": 1,
+    "accepted": 168, "sent": 842
   },
   {
     "bucket": "in_conversation",
     "id": "student_09",
     "name": "Student 09",
-    "rankAcc": 8,
-    "rankPos": 9,
-    "rankMtg": 17,
+    "rankAcc": 6,
+    "rankPos": 8,
+    "rankMtg": 7,
     "hasReport": true,
-    "accept": 21,
-    "positive": 8,
-    "meetings": 1,
-    "accepted": 118,
-    "sent": 563
+    "accept": 22.8,
+    "positive": 11,
+    "meetings": 4,
+    "accepted": 275, "sent": 1204
   },
   {
     "bucket": "in_conversation",
     "id": "student_10",
     "name": "Student 10",
-    "rankAcc": 20,
-    "rankPos": 10,
-    "rankMtg": 15,
+    "rankAcc": 8,
+    "rankPos": 9,
+    "rankMtg": 8,
     "hasReport": true,
-    "accept": 18.1,
-    "positive": 8,
-    "meetings": 2,
-    "accepted": 89,
-    "sent": 492
+    "accept": 22.3,
+    "positive": 11,
+    "meetings": 4,
+    "accepted": 225, "sent": 1011
   },
   {
     "bucket": "in_conversation",
     "id": "student_11",
     "name": "Student 11",
-    "rankAcc": 28,
-    "rankPos": 11,
-    "rankMtg": 8,
+    "rankAcc": 30,
+    "rankPos": 14,
+    "rankMtg": 29,
     "hasReport": true,
-    "accept": 15.6,
-    "positive": 7,
-    "meetings": 2,
-    "accepted": 84,
-    "sent": 540
+    "accept": 16.0,
+    "positive": 8,
+    "meetings": 0,
+    "accepted": 190, "sent": 1191
   },
   {
     "bucket": "in_conversation",
     "id": "student_12",
     "name": "Student 12",
-    "rankAcc": 21,
-    "rankPos": 12,
-    "rankMtg": 27,
+    "rankAcc": 26,
+    "rankPos": 17,
+    "rankMtg": 30,
     "hasReport": true,
-    "accept": 17.9,
+    "accept": 18.4,
     "positive": 7,
     "meetings": 0,
-    "accepted": 101,
-    "sent": 563
+    "accepted": 223, "sent": 1211
   },
   {
     "bucket": "in_conversation",
     "id": "student_13",
     "name": "Student 13",
-    "rankAcc": 5,
-    "rankPos": 13,
-    "rankMtg": 9,
+    "rankAcc": 10,
+    "rankPos": 10,
+    "rankMtg": 2,
     "hasReport": true,
-    "accept": 21.2,
-    "positive": 7,
-    "meetings": 2,
-    "accepted": 119,
-    "sent": 560
+    "accept": 22.0,
+    "positive": 11,
+    "meetings": 6,
+    "accepted": 265, "sent": 1204
   },
   {
     "bucket": "in_conversation",
     "id": "student_14",
     "name": "Student 14",
-    "rankAcc": 7,
-    "rankPos": 14,
-    "rankMtg": 11,
+    "rankAcc": 12,
+    "rankPos": 18,
+    "rankMtg": 17,
     "hasReport": true,
-    "accept": 21.1,
+    "accept": 21.3,
     "positive": 7,
     "meetings": 2,
-    "accepted": 120,
-    "sent": 569
+    "accepted": 258, "sent": 1214
   },
   {
     "bucket": "in_conversation",
     "id": "student_15",
     "name": "Student 15",
-    "rankAcc": 17,
-    "rankPos": 15,
-    "rankMtg": 28,
+    "rankAcc": 14,
+    "rankPos": 23,
+    "rankMtg": 31,
     "hasReport": true,
-    "accept": 18.8,
-    "positive": 7,
+    "accept": 20.7,
+    "positive": 5,
     "meetings": 0,
-    "accepted": 107,
-    "sent": 568
+    "accepted": 197, "sent": 950
   },
   {
     "bucket": "in_conversation",
     "id": "student_16",
     "name": "Student 16",
     "rankAcc": 4,
-    "rankPos": 16,
-    "rankMtg": 26,
+    "rankPos": 20,
+    "rankMtg": 32,
     "hasReport": true,
-    "accept": 23.1,
+    "accept": 24.3,
     "positive": 6,
     "meetings": 0,
-    "accepted": 87,
-    "sent": 377
+    "accepted": 186, "sent": 766
   },
   {
     "bucket": "in_conversation",
     "id": "student_17",
     "name": "Student 17",
-    "rankAcc": 19,
-    "rankPos": 17,
-    "rankMtg": 4,
+    "rankAcc": 9,
+    "rankPos": 6,
+    "rankMtg": 13,
     "hasReport": true,
-    "accept": 18.2,
-    "positive": 6,
+    "accept": 22.2,
+    "positive": 12,
     "meetings": 3,
-    "accepted": 103,
-    "sent": 565
+    "accepted": 270, "sent": 1215
   },
   {
     "bucket": "in_conversation",
     "id": "student_18",
     "name": "Student 18",
-    "rankAcc": 12,
-    "rankPos": 18,
-    "rankMtg": 5,
+    "rankAcc": 16,
+    "rankPos": 21,
+    "rankMtg": 14,
     "hasReport": true,
-    "accept": 19.5,
+    "accept": 20.3,
     "positive": 6,
     "meetings": 3,
-    "accepted": 96,
-    "sent": 493
+    "accepted": 205, "sent": 1012
   },
   {
     "bucket": "in_conversation",
     "id": "student_19",
     "name": "Student 19",
-    "rankAcc": 27,
-    "rankPos": 19,
-    "rankMtg": 12,
+    "rankAcc": 28,
+    "rankPos": 13,
+    "rankMtg": 9,
     "hasReport": true,
-    "accept": 15.8,
-    "positive": 6,
-    "meetings": 2,
-    "accepted": 89,
-    "sent": 564
+    "accept": 17.4,
+    "positive": 9,
+    "meetings": 4,
+    "accepted": 207, "sent": 1190
   },
   {
     "bucket": "in_conversation",
     "id": "student_20",
     "name": "Student 20",
-    "rankAcc": 31,
-    "rankPos": 20,
-    "rankMtg": 16,
+    "rankAcc": 27,
+    "rankPos": 24,
+    "rankMtg": 5,
     "hasReport": true,
-    "accept": 14.9,
-    "positive": 6,
-    "meetings": 2,
-    "accepted": 85,
-    "sent": 570
+    "accept": 18.1,
+    "positive": 5,
+    "meetings": 5,
+    "accepted": 220, "sent": 1216
   },
   {
     "bucket": "in_conversation",
     "id": "student_21",
     "name": "Student 21",
-    "rankAcc": 6,
-    "rankPos": 21,
-    "rankMtg": 20,
+    "rankAcc": 5,
+    "rankPos": 22,
+    "rankMtg": 22,
     "hasReport": true,
-    "accept": 21.2,
-    "positive": 5,
+    "accept": 23.7,
+    "positive": 6,
     "meetings": 1,
-    "accepted": 100,
-    "sent": 472
+    "accepted": 182, "sent": 769
   },
   {
     "bucket": "in_conversation",
     "id": "student_22",
     "name": "Student 22",
-    "rankAcc": 13,
-    "rankPos": 22,
-    "rankMtg": 14,
+    "rankAcc": 11,
+    "rankPos": 4,
+    "rankMtg": 3,
     "hasReport": true,
-    "accept": 19.3,
-    "positive": 5,
-    "meetings": 2,
-    "accepted": 109,
-    "sent": 565
+    "accept": 22.0,
+    "positive": 14,
+    "meetings": 6,
+    "accepted": 267, "sent": 1211
   },
   {
     "bucket": "in_conversation",
     "id": "student_23",
     "name": "Student 23",
-    "rankAcc": 22,
-    "rankPos": 23,
-    "rankMtg": 7,
+    "rankAcc": 17,
+    "rankPos": 19,
+    "rankMtg": 18,
     "hasReport": true,
-    "accept": 17.8,
-    "positive": 4,
+    "accept": 20.2,
+    "positive": 7,
     "meetings": 2,
-    "accepted": 94,
-    "sent": 528
+    "accepted": 236, "sent": 1171
   },
   {
     "bucket": "in_conversation",
     "id": "student_24",
     "name": "Student 24",
-    "rankAcc": 23,
-    "rankPos": 24,
-    "rankMtg": 24,
+    "rankAcc": 18,
+    "rankPos": 25,
+    "rankMtg": 15,
     "hasReport": true,
-    "accept": 17.2,
-    "positive": 4,
-    "meetings": 1,
-    "accepted": 98,
-    "sent": 569
+    "accept": 20.2,
+    "positive": 5,
+    "meetings": 3,
+    "accepted": 246, "sent": 1215
   },
   {
     "bucket": "in_conversation",
     "id": "student_25",
     "name": "Student 25",
     "rankAcc": 32,
-    "rankPos": 25,
-    "rankMtg": 6,
+    "rankPos": 26,
+    "rankMtg": 23,
     "hasReport": true,
-    "accept": 13.2,
-    "positive": 4,
-    "meetings": 3,
-    "accepted": 76,
-    "sent": 574
+    "accept": 14.4,
+    "positive": 5,
+    "meetings": 1,
+    "accepted": 176, "sent": 1218
   },
   {
     "bucket": "in_conversation",
     "id": "student_26",
     "name": "Student 26",
-    "rankAcc": 16,
-    "rankPos": 26,
-    "rankMtg": 29,
+    "rankAcc": 22,
+    "rankPos": 33,
+    "rankMtg": 24,
     "hasReport": true,
-    "accept": 19,
-    "positive": 3,
-    "meetings": 0,
-    "accepted": 94,
-    "sent": 496
+    "accept": 19.2,
+    "positive": 1,
+    "meetings": 1,
+    "accepted": 195, "sent": 1014
   },
   {
     "bucket": "in_conversation",
     "id": "student_27",
     "name": "Student 27",
-    "rankAcc": 18,
-    "rankPos": 27,
-    "rankMtg": 13,
+    "rankAcc": 20,
+    "rankPos": 15,
+    "rankMtg": 19,
     "hasReport": true,
-    "accept": 18.6,
-    "positive": 3,
+    "accept": 20.0,
+    "positive": 8,
     "meetings": 2,
-    "accepted": 91,
-    "sent": 490
+    "accepted": 202, "sent": 1008
   },
   {
     "bucket": "in_conversation",
     "id": "student_28",
     "name": "Student 28",
-    "rankAcc": 15,
-    "rankPos": 28,
-    "rankMtg": 18,
+    "rankAcc": 21,
+    "rankPos": 31,
+    "rankMtg": 25,
     "hasReport": true,
-    "accept": 19.2,
+    "accept": 20.0,
     "positive": 2,
     "meetings": 1,
-    "accepted": 23,
-    "sent": 120
+    "accepted": 24, "sent": 120
   },
   {
     "bucket": "in_conversation",
     "id": "student_29",
     "name": "Student 29",
-    "rankAcc": 24,
-    "rankPos": 29,
-    "rankMtg": 19,
+    "rankAcc": 25,
+    "rankPos": 32,
+    "rankMtg": 26,
     "hasReport": true,
-    "accept": 17,
+    "accept": 18.7,
     "positive": 2,
     "meetings": 1,
-    "accepted": 64,
-    "sent": 376
+    "accepted": 137, "sent": 733
   },
   {
     "bucket": "in_conversation",
     "id": "student_30",
     "name": "Student 30",
-    "rankAcc": 30,
-    "rankPos": 30,
-    "rankMtg": 23,
+    "rankAcc": 31,
+    "rankPos": 29,
+    "rankMtg": 27,
     "hasReport": true,
-    "accept": 14.9,
-    "positive": 2,
+    "accept": 14.6,
+    "positive": 3,
     "meetings": 1,
-    "accepted": 37,
-    "sent": 249
+    "accepted": 74, "sent": 508
   },
   {
     "bucket": "in_conversation",
     "id": "student_31",
     "name": "Student 31",
-    "rankAcc": 10,
-    "rankPos": 31,
-    "rankMtg": 25,
+    "rankAcc": 15,
+    "rankPos": 27,
+    "rankMtg": 28,
     "hasReport": true,
-    "accept": 19.9,
-    "positive": 1,
-    "meetings": 0,
-    "accepted": 75,
-    "sent": 376
+    "accept": 20.4,
+    "positive": 5,
+    "meetings": 1,
+    "accepted": 156, "sent": 765
   },
   {
     "bucket": "in_conversation",
     "id": "student_32",
     "name": "Student 32",
     "rankAcc": 29,
-    "rankPos": 32,
-    "rankMtg": 21,
+    "rankPos": 28,
+    "rankMtg": 20,
     "hasReport": true,
-    "accept": 15.2,
-    "positive": 1,
-    "meetings": 1,
-    "accepted": 57,
-    "sent": 374
+    "accept": 17.0,
+    "positive": 5,
+    "meetings": 2,
+    "accepted": 129, "sent": 760
   },
   {
     "bucket": "in_conversation",
     "id": "student_33",
     "name": "Student 33",
     "rankAcc": 33,
-    "rankPos": 33,
-    "rankMtg": 32,
+    "rankPos": 30,
+    "rankMtg": 33,
     "hasReport": true,
-    "accept": 12,
-    "positive": 1,
+    "accept": 12.7,
+    "positive": 3,
     "meetings": 0,
-    "accepted": 68,
-    "sent": 566
+    "accepted": 154, "sent": 1217
   }
 ];
 
 window.COHORT_TOTALS = {
   "students": 33,
-  "weeks": 5,
+  "weeks": 10,
   "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
   "window": {
     "start": "Apr 1, 2026",
-    "end": "May 6, 2026"
+    "end": "Jun 8, 2026"
   },
-  "requestsSent": 16690,
-  "accepted": 3125,
-  "positive": 209,
-  "meetings": 55,
-  "pipelineLow": 627000,
-  "pipelineHigh": 1254000,
-  "medianAccept": 18.8,
-  "medianPositive": 6,
-  "medianMeetings": 1,
-  "studentsInConversation": 33
+  "requestsSent": 33948,
+  "accepted": 6900,
+  "positive": 264,
+  "meetings": 82,
+  "pipelineLow": 792000,
+  "pipelineHigh": 1584000,
+  "medianAccept": 20.2,
+  "medianPositive": 7,
+  "medianMeetings": 2,
+  "studentsInConversation": 33,
+  "week5Baseline": {
+    "requestsSent": 16690,
+    "accepted": 3125,
+    "positive": 209,
+    "meetings": 55
+  },
+};
+
+window.COHORT_HIGHLIGHTS = {
+  "week": 10,
+  "contracts": 5,
+  "students5PlusPositive": 28,
+  "weekOverWeekJump": 15,
+  "baselineWeek": 8,
+  "social": ["Gary Tan", "Andrej Karpathy"],
+  "ceoEngagement": "A student received a direct reply from the CEO of a billion-dollar startup",
+  "fullTimePlacements": true,
+  "deepConversations": 3,
+  "timesSquare": true,
+  "videoComingSoon": true
 };
 
 window.COHORT_WEEKLY = [
-  {
-    "week": "Mar 30",
-    "replies": 110,
-    "ai": 2482
-  },
-  {
-    "week": "Apr 6",
-    "replies": 248,
-    "ai": 4359
-  },
-  {
-    "week": "Apr 13",
-    "replies": 240,
-    "ai": 29406
-  },
-  {
-    "week": "Apr 20",
-    "replies": 335,
-    "ai": 4606
-  },
-  {
-    "week": "Apr 27",
-    "replies": 327,
-    "ai": 4791
-  },
-  {
-    "week": "May 4",
-    "replies": 149,
-    "ai": 3073
-  }
+  { "week": "Mar 30", "replies": 110, "ai": 2482 },
+  { "week": "Apr 6", "replies": 248, "ai": 4359 },
+  { "week": "Apr 13", "replies": 240, "ai": 29406 },
+  { "week": "Apr 20", "replies": 335, "ai": 4606 },
+  { "week": "Apr 27", "replies": 327, "ai": 4791 },
+  { "week": "May 4", "replies": 334, "ai": 3073 },
+  { "week": "May 11", "replies": 285, "ai": 0 },
+  { "week": "May 18", "replies": 292, "ai": 0 },
+  { "week": "May 25", "replies": 306, "ai": 0 },
+  { "week": "Jun 1", "replies": 251, "ai": 0 },
+  { "week": "Jun 8", "replies": 205, "ai": 0 }
 ];
 
 window.REPORTS = {
@@ -528,8 +496,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -548,25 +516,25 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1325,
-      "requests_sent": 570,
-      "accepted": 140,
-      "reverted": 62,
-      "delivered": 570,
-      "replied": 62,
+      "requests_sent": 1212,
+      "accepted": 320,
+      "reverted": 127,
+      "delivered": 1212,
+      "replied": 127,
       "positive": 16,
-      "meetings": 7
+      "meetings": 8
     },
     "rates": {
-      "acceptance": 24.6,
-      "replyOfAccepted": 44.3,
-      "replyOfSent": 10.9
+      "acceptance": 26.4,
+      "replyOfAccepted": 39.7,
+      "replyOfSent": 10.5
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
       "rankAcc": "2 of 33",
-      "rankPos": "1 of 33",
+      "rankPos": "2 of 33",
       "rankMtg": "1 of 33"
     },
     "weekly": [
@@ -604,52 +572,46 @@ window.REPORTS = {
     "pipeline": {
       "currentLow": 48000,
       "currentHigh": 96000,
-      "currentMeetings": 7,
+      "currentMeetings": 8,
       "basis": "16 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 13,
-          "meetings": 6,
-          "low": 38400,
-          "high": 76800
+          "positive": 6,
+          "meetings": 3,
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 42,
-          "meetings": 18,
-          "low": 124800,
-          "high": 249600
+          "positive": 21,
+          "meetings": 10,
+          "low": 63000,
+          "high": 126000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 83,
-          "meetings": 36,
-          "low": 249600,
-          "high": 499200
+          "positive": 42,
+          "meetings": 21,
+          "low": 126000,
+          "high": 252000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 166,
-          "meetings": 73,
-          "low": 499200,
-          "high": 998400
+          "positive": 83,
+          "meetings": 42,
+          "low": 249000,
+          "high": 498000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
@@ -666,49 +628,49 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 11
+        "count": 36
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 8
+        "count": 51
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 27
+        "count": 24
       }
     ],
-    "intent": [
+        "intent": [
+      {
+        "label": "Asked for more info",
+        "count": 51
+      },
       {
         "label": "Said not a fit",
-        "count": 31
+        "count": 45
       },
       {
         "label": "Wants to meet",
-        "count": 15
-      },
-      {
-        "label": "Asked for more info",
-        "count": 11
-      },
-      {
-        "label": "Other",
-        "count": 7
+        "count": 40
       },
       {
         "label": "Asked about role / company",
-        "count": 7
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 5
+        "count": 20
       },
       {
         "label": "Asked about pricing / scope",
-        "count": 2
+        "count": 4
+      },
+      {
+        "label": "Other",
+        "count": 3
+      },
+      {
+        "label": "Referred someone else",
+        "count": 1
       }
     ],
     "personaSeniority": [
@@ -806,8 +768,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -826,26 +788,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1322,
-      "requests_sent": 376,
-      "accepted": 75,
-      "reverted": 21,
-      "delivered": 376,
-      "replied": 21,
-      "positive": 1,
-      "meetings": 0
+      "requests_sent": 765,
+      "accepted": 156,
+      "reverted": 50,
+      "delivered": 765,
+      "replied": 50,
+      "positive": 5,
+      "meetings": 1
     },
     "rates": {
-      "acceptance": 19.9,
-      "replyOfAccepted": 28,
-      "replyOfSent": 5.6
+      "acceptance": 20.4,
+      "replyOfAccepted": 32.1,
+      "replyOfSent": 6.5
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "10 of 33",
-      "rankPos": "31 of 33",
-      "rankMtg": "25 of 33"
+      "rankAcc": "15 of 33",
+      "rankPos": "27 of 33",
+      "rankMtg": "28 of 33"
     },
     "weekly": [
       {
@@ -880,106 +842,102 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 3000,
-      "currentHigh": 6000,
-      "currentMeetings": 0,
-      "basis": "1 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 15000,
+      "currentHigh": 30000,
+      "currentMeetings": 1,
+      "basis": "5 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 1,
+          "positive": 2,
           "meetings": 0,
-          "low": 2400,
-          "high": 4800
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 3,
-          "meetings": 0,
-          "low": 7800,
-          "high": 15600
+          "positive": 6,
+          "meetings": 1,
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 5,
-          "meetings": 0,
-          "low": 15600,
-          "high": 31200
+          "positive": 13,
+          "meetings": 3,
+          "low": 39000,
+          "high": 78000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 10,
-          "meetings": 0,
-          "low": 31200,
-          "high": 62400
+          "positive": 26,
+          "meetings": 5,
+          "low": 78000,
+          "high": 156000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
+      {
+        "key": "positive_meeting_booked",
+        "label": "Meeting booked",
+        "tone": "positive",
+        "count": 1
+      },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 1
+        "count": 4
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 4
+        "count": 13
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 2
+        "count": 20
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 14
+        "count": 12
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 13
+        "count": 24
       },
       {
         "label": "Asked for more info",
-        "count": 4
-      },
-      {
-        "label": "Asked about role / company",
-        "count": 3
+        "count": 14
       },
       {
         "label": "Wants to meet",
-        "count": 2
+        "count": 10
       },
       {
-        "label": "Referred someone else",
-        "count": 1
-      },
-      {
-        "label": "Complained about outreach",
-        "count": 1
+        "label": "Asked about role / company",
+        "count": 8
       },
       {
         "label": "Other",
+        "count": 1
+      },
+      {
+        "label": "Referred someone else",
         "count": 1
       }
     ],
@@ -1046,8 +1004,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -1066,26 +1024,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 377,
-      "accepted": 87,
-      "reverted": 32,
-      "delivered": 377,
-      "replied": 32,
+      "requests_sent": 766,
+      "accepted": 186,
+      "reverted": 59,
+      "delivered": 766,
+      "replied": 59,
       "positive": 6,
       "meetings": 0
     },
     "rates": {
-      "acceptance": 23.1,
-      "replyOfAccepted": 36.8,
-      "replyOfSent": 8.5
+      "acceptance": 24.3,
+      "replyOfAccepted": 31.7,
+      "replyOfSent": 7.7
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
       "rankAcc": "4 of 33",
-      "rankPos": "16 of 33",
-      "rankMtg": "26 of 33"
+      "rankPos": "20 of 33",
+      "rankMtg": "32 of 33"
     },
     "weekly": [
       {
@@ -1125,49 +1083,43 @@ window.REPORTS = {
       "currentMeetings": 0,
       "basis": "6 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 5,
+          "positive": 2,
           "meetings": 0,
-          "low": 14400,
-          "high": 28800
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 16,
+          "positive": 8,
           "meetings": 0,
-          "low": 46800,
-          "high": 93600
+          "low": 24000,
+          "high": 48000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 31,
+          "positive": 16,
           "meetings": 0,
-          "low": 93600,
-          "high": 187200
+          "low": 48000,
+          "high": 96000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 62,
+          "positive": 31,
           "meetings": 0,
-          "low": 187200,
-          "high": 374400
+          "low": 93000,
+          "high": 186000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
@@ -1178,64 +1130,40 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 5
+        "count": 14
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 5
-      },
-      {
-        "key": "out_of_office_autoreply",
-        "label": "Out of office",
-        "tone": "neutral",
-        "count": 1
+        "count": 22
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 14
-      },
-      {
-        "key": "negative_unsubscribe_or_hostile",
-        "label": "Unsubscribe / hostile",
-        "tone": "negative",
-        "count": 1
+        "count": 17
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 14
+        "count": 31
       },
       {
         "label": "Asked for more info",
-        "count": 7
+        "count": 23
       },
       {
         "label": "Wants to meet",
+        "count": 15
+      },
+      {
+        "label": "Asked about role / company",
         "count": 5
       },
       {
         "label": "Other",
-        "count": 4
-      },
-      {
-        "label": "Asked about role / company",
-        "count": 2
-      },
-      {
-        "label": "Complained about outreach",
-        "count": 2
-      },
-      {
-        "label": "Asked about pricing / scope",
-        "count": 1
-      },
-      {
-        "label": "Shared Calendly / email",
         "count": 1
       },
       {
@@ -1318,8 +1246,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -1338,26 +1266,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1328,
-      "requests_sent": 528,
-      "accepted": 94,
-      "reverted": 24,
-      "delivered": 528,
-      "replied": 24,
-      "positive": 4,
+      "requests_sent": 1171,
+      "accepted": 236,
+      "reverted": 60,
+      "delivered": 1171,
+      "replied": 60,
+      "positive": 7,
       "meetings": 2
     },
     "rates": {
-      "acceptance": 17.8,
-      "replyOfAccepted": 25.5,
-      "replyOfSent": 4.5
+      "acceptance": 20.2,
+      "replyOfAccepted": 25.4,
+      "replyOfSent": 5.1
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "22 of 33",
-      "rankPos": "23 of 33",
-      "rankMtg": "7 of 33"
+      "rankAcc": "17 of 33",
+      "rankPos": "19 of 33",
+      "rankMtg": "18 of 33"
     },
     "weekly": [
       {
@@ -1392,54 +1320,48 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 12000,
-      "currentHigh": 24000,
+      "currentLow": 21000,
+      "currentHigh": 42000,
       "currentMeetings": 2,
-      "basis": "4 positive replies × $3,000–$6,000 per closed engagement",
+      "basis": "7 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
           "positive": 3,
-          "meetings": 2,
-          "low": 9600,
-          "high": 19200
+          "meetings": 1,
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 10,
-          "meetings": 5,
-          "low": 31200,
-          "high": 62400
+          "positive": 9,
+          "meetings": 3,
+          "low": 27000,
+          "high": 54000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 21,
-          "meetings": 10,
-          "low": 62400,
-          "high": 124800
+          "positive": 18,
+          "meetings": 5,
+          "low": 54000,
+          "high": 108000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 42,
-          "meetings": 21,
-          "low": 124800,
-          "high": 249600
+          "positive": 36,
+          "meetings": 10,
+          "low": 108000,
+          "high": 216000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
@@ -1450,54 +1372,46 @@ window.REPORTS = {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 2
+        "count": 5
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 8
+        "count": 18
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 4
+        "count": 20
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 8
+        "count": 15
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 9
+        "count": 27
       },
       {
         "label": "Said not a fit",
-        "count": 9
+        "count": 26
       },
       {
         "label": "Wants to meet",
-        "count": 5
+        "count": 15
       },
       {
         "label": "Asked about role / company",
-        "count": 3
+        "count": 7
       },
       {
         "label": "Shared Calendly / email",
-        "count": 2
-      },
-      {
-        "label": "Other",
-        "count": 2
-      },
-      {
-        "label": "Referred someone else",
         "count": 1
       }
     ],
@@ -1566,8 +1480,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -1586,26 +1500,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1329,
-      "requests_sent": 540,
-      "accepted": 84,
-      "reverted": 21,
-      "delivered": 540,
-      "replied": 21,
-      "positive": 7,
-      "meetings": 2
+      "requests_sent": 1191,
+      "accepted": 190,
+      "reverted": 54,
+      "delivered": 1191,
+      "replied": 54,
+      "positive": 8,
+      "meetings": 0
     },
     "rates": {
-      "acceptance": 15.6,
-      "replyOfAccepted": 25,
-      "replyOfSent": 3.9
+      "acceptance": 16.0,
+      "replyOfAccepted": 28.4,
+      "replyOfSent": 4.5
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "28 of 33",
-      "rankPos": "11 of 33",
-      "rankMtg": "8 of 33"
+      "rankAcc": "30 of 33",
+      "rankPos": "14 of 33",
+      "rankMtg": "29 of 33"
     },
     "weekly": [
       {
@@ -1640,117 +1554,89 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 21000,
-      "currentHigh": 42000,
-      "currentMeetings": 2,
-      "basis": "7 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 24000,
+      "currentHigh": 48000,
+      "currentMeetings": 0,
+      "basis": "8 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 6,
-          "meetings": 2,
-          "low": 16800,
-          "high": 33600
+          "positive": 3,
+          "meetings": 0,
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 18,
-          "meetings": 5,
-          "low": 54600,
-          "high": 109200
+          "positive": 10,
+          "meetings": 0,
+          "low": 30000,
+          "high": 60000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 36,
-          "meetings": 10,
-          "low": 109200,
-          "high": 218400
+          "positive": 21,
+          "meetings": 0,
+          "low": 63000,
+          "high": 126000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 73,
-          "meetings": 21,
-          "low": 218400,
-          "high": 436800
+          "positive": 42,
+          "meetings": 0,
+          "low": 126000,
+          "high": 252000
         }
       ]
     },
-    "sentiment": [
-      {
-        "key": "positive_meeting_booked",
-        "label": "Meeting booked",
-        "tone": "positive",
-        "count": 2
-      },
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 5
+        "count": 8
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 2
+        "count": 13
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 1
+        "count": 16
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 11
+        "count": 17
       }
     ],
-    "intent": [
+        "intent": [
+      {
+        "label": "Asked for more info",
+        "count": 25
+      },
       {
         "label": "Said not a fit",
-        "count": 9
+        "count": 21
       },
       {
         "label": "Wants to meet",
-        "count": 6
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 4
-      },
-      {
-        "label": "Asked for more info",
-        "count": 4
-      },
-      {
-        "label": "Other",
-        "count": 2
+        "count": 16
       },
       {
         "label": "Asked about role / company",
-        "count": 1
-      },
-      {
-        "label": "Asked about pricing / scope",
-        "count": 1
-      },
-      {
-        "label": "Complained about outreach",
-        "count": 1
+        "count": 8
       }
     ],
     "personaSeniority": [
@@ -1819,8 +1705,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -1839,26 +1725,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1324,
-      "requests_sent": 563,
-      "accepted": 101,
-      "reverted": 23,
-      "delivered": 563,
-      "replied": 23,
+      "requests_sent": 1211,
+      "accepted": 223,
+      "reverted": 45,
+      "delivered": 1211,
+      "replied": 45,
       "positive": 7,
       "meetings": 0
     },
     "rates": {
-      "acceptance": 17.9,
-      "replyOfAccepted": 22.8,
-      "replyOfSent": 4.1
+      "acceptance": 18.4,
+      "replyOfAccepted": 20.2,
+      "replyOfSent": 3.7
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "21 of 33",
-      "rankPos": "12 of 33",
-      "rankMtg": "27 of 33"
+      "rankAcc": "26 of 33",
+      "rankPos": "17 of 33",
+      "rankMtg": "30 of 33"
     },
     "weekly": [
       {
@@ -1898,49 +1784,43 @@ window.REPORTS = {
       "currentMeetings": 0,
       "basis": "7 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 6,
+          "positive": 3,
           "meetings": 0,
-          "low": 16800,
-          "high": 33600
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 18,
+          "positive": 9,
           "meetings": 0,
-          "low": 54600,
-          "high": 109200
+          "low": 27000,
+          "high": 54000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 36,
+          "positive": 18,
           "meetings": 0,
-          "low": 109200,
-          "high": 218400
+          "low": 54000,
+          "high": 108000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 73,
+          "positive": 36,
           "meetings": 0,
-          "low": 218400,
-          "high": 436800
+          "low": 108000,
+          "high": 216000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
@@ -1951,13 +1831,13 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 2
+        "count": 12
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 1
+        "count": 13
       },
       {
         "key": "negative_polite_decline",
@@ -1966,22 +1846,22 @@ window.REPORTS = {
         "count": 13
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 13
+        "count": 21
       },
       {
         "label": "Wants to meet",
-        "count": 7
-      },
-      {
-        "label": "Other",
-        "count": 3
+        "count": 13
       },
       {
         "label": "Asked for more info",
-        "count": 1
+        "count": 13
+      },
+      {
+        "label": "Asked about role / company",
+        "count": 8
       }
     ],
     "personaSeniority": [
@@ -2046,8 +1926,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -2066,26 +1946,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1324,
-      "requests_sent": 563,
-      "accepted": 118,
-      "reverted": 37,
-      "delivered": 563,
-      "replied": 37,
-      "positive": 8,
-      "meetings": 1
+      "requests_sent": 1204,
+      "accepted": 275,
+      "reverted": 78,
+      "delivered": 1204,
+      "replied": 78,
+      "positive": 11,
+      "meetings": 4
     },
     "rates": {
-      "acceptance": 21,
-      "replyOfAccepted": 31.4,
-      "replyOfSent": 6.6
+      "acceptance": 22.8,
+      "replyOfAccepted": 28.4,
+      "replyOfSent": 6.5
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "8 of 33",
-      "rankPos": "9 of 33",
-      "rankMtg": "17 of 33"
+      "rankAcc": "6 of 33",
+      "rankPos": "8 of 33",
+      "rankMtg": "7 of 33"
     },
     "weekly": [
       {
@@ -2120,59 +2000,53 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 24000,
-      "currentHigh": 48000,
-      "currentMeetings": 1,
-      "basis": "8 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 33000,
+      "currentHigh": 66000,
+      "currentMeetings": 4,
+      "basis": "11 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 6,
-          "meetings": 1,
-          "low": 19200,
-          "high": 38400
+          "positive": 4,
+          "meetings": 2,
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 21,
-          "meetings": 3,
-          "low": 62400,
-          "high": 124800
+          "positive": 14,
+          "meetings": 5,
+          "low": 42000,
+          "high": 84000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 42,
-          "meetings": 5,
-          "low": 124800,
-          "high": 249600
+          "positive": 29,
+          "meetings": 10,
+          "low": 87000,
+          "high": 174000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 83,
-          "meetings": 10,
-          "low": 249600,
-          "high": 499200
+          "positive": 57,
+          "meetings": 21,
+          "low": 171000,
+          "high": 342000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 1
+        "count": 4
       },
       {
         "key": "positive_interested",
@@ -2184,41 +2058,41 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 7
+        "count": 23
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 6
+        "count": 30
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 16
+        "count": 14
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 17
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 12
+        "count": 41
+      },
+      {
+        "label": "Said not a fit",
+        "count": 24
       },
       {
         "label": "Wants to meet",
-        "count": 9
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 3
+        "count": 23
       },
       {
         "label": "Asked about role / company",
-        "count": 3
+        "count": 6
+      },
+      {
+        "label": "Other",
+        "count": 2
       }
     ],
     "personaSeniority": [
@@ -2284,8 +2158,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 2, 2026",
-      "weeks": 4.4
+      "end": "Jun 8, 2026",
+      "weeks": 10.4
     },
     "geography": [
       "San Francisco",
@@ -2305,7 +2179,7 @@ window.REPORTS = {
     "funnel": {
       "leads_targeted": 1327,
       "requests_sent": 120,
-      "accepted": 23,
+      "accepted": 24,
       "reverted": 6,
       "delivered": 120,
       "replied": 6,
@@ -2313,17 +2187,17 @@ window.REPORTS = {
       "meetings": 1
     },
     "rates": {
-      "acceptance": 19.2,
-      "replyOfAccepted": 26.1,
-      "replyOfSent": 5
+      "acceptance": 20.0,
+      "replyOfAccepted": 25.0,
+      "replyOfSent": 5.0
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "15 of 33",
-      "rankPos": "28 of 33",
-      "rankMtg": "18 of 33"
+      "rankAcc": "21 of 33",
+      "rankPos": "31 of 33",
+      "rankMtg": "25 of 33"
     },
     "weekly": [
       {
@@ -2358,60 +2232,48 @@ window.REPORTS = {
       "currentMeetings": 1,
       "basis": "2 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 2,
-          "meetings": 1,
-          "low": 6000,
-          "high": 12000
+          "positive": 1,
+          "meetings": 0,
+          "low": 3000,
+          "high": 6000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 6,
-          "meetings": 3,
-          "low": 19500,
-          "high": 39000
+          "positive": 3,
+          "meetings": 1,
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 13,
-          "meetings": 5,
-          "low": 39000,
-          "high": 78000
+          "positive": 5,
+          "meetings": 3,
+          "low": 15000,
+          "high": 30000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 26,
-          "meetings": 10,
-          "low": 78000,
-          "high": 156000
+          "positive": 10,
+          "meetings": 5,
+          "low": 30000,
+          "high": 60000
         }
       ]
     },
-    "sentiment": [
-      {
-        "key": "positive_meeting_booked",
-        "label": "Meeting booked",
-        "tone": "positive",
-        "count": 1
-      },
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 1
+        "count": 2
       },
       {
         "key": "neutral_curious_question",
@@ -2420,22 +2282,18 @@ window.REPORTS = {
         "count": 4
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Asked for more info",
+        "count": 4
+      },
+      {
+        "label": "Asked about role / company",
         "count": 3
       },
       {
-        "label": "Other",
-        "count": 2
-      },
-      {
         "label": "Wants to meet",
-        "count": 1
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 1
+        "count": 2
       }
     ],
     "personaSeniority": [
@@ -2482,8 +2340,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 6, 2026",
-      "end": "May 6, 2026",
-      "weeks": 4.3
+      "end": "Jun 8, 2026",
+      "weeks": 10.3
     },
     "geography": [
       "San Francisco",
@@ -2502,26 +2360,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1321,
-      "requests_sent": 560,
-      "accepted": 119,
-      "reverted": 34,
-      "delivered": 560,
-      "replied": 34,
-      "positive": 7,
-      "meetings": 2
+      "requests_sent": 1204,
+      "accepted": 265,
+      "reverted": 77,
+      "delivered": 1204,
+      "replied": 77,
+      "positive": 11,
+      "meetings": 6
     },
     "rates": {
-      "acceptance": 21.2,
-      "replyOfAccepted": 28.6,
-      "replyOfSent": 6.1
+      "acceptance": 22.0,
+      "replyOfAccepted": 29.1,
+      "replyOfSent": 6.4
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "5 of 33",
-      "rankPos": "13 of 33",
-      "rankMtg": "9 of 33"
+      "rankAcc": "10 of 33",
+      "rankPos": "10 of 33",
+      "rankMtg": "2 of 33"
     },
     "weekly": [
       {
@@ -2551,59 +2409,53 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 21000,
-      "currentHigh": 42000,
-      "currentMeetings": 2,
-      "basis": "7 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 33000,
+      "currentHigh": 66000,
+      "currentMeetings": 6,
+      "basis": "11 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 6,
+          "positive": 4,
           "meetings": 2,
-          "low": 19200,
-          "high": 38400
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 21,
-          "meetings": 6,
-          "low": 62400,
-          "high": 124800
+          "positive": 14,
+          "meetings": 8,
+          "low": 42000,
+          "high": 84000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 42,
-          "meetings": 13,
-          "low": 124800,
-          "high": 249600
+          "positive": 29,
+          "meetings": 16,
+          "low": 87000,
+          "high": 174000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 83,
-          "meetings": 26,
-          "low": 249600,
-          "high": 499200
+          "positive": 57,
+          "meetings": 31,
+          "low": 171000,
+          "high": 342000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 2
+        "count": 6
       },
       {
         "key": "positive_interested",
@@ -2615,55 +2467,41 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 7
+        "count": 15
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 4
+        "count": 32
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 15
-      },
-      {
-        "key": "negative_unsubscribe_or_hostile",
-        "label": "Unsubscribe / hostile",
-        "tone": "negative",
-        "count": 1
+        "count": 19
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 15
+        "count": 36
       },
       {
         "label": "Asked for more info",
-        "count": 8
+        "count": 29
       },
       {
         "label": "Wants to meet",
-        "count": 8
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 3
-      },
-      {
-        "label": "Other",
-        "count": 3
+        "count": 22
       },
       {
         "label": "Asked about role / company",
-        "count": 1
+        "count": 8
       },
       {
-        "label": "Complained about outreach",
-        "count": 1
+        "label": "Other",
+        "count": 2
       }
     ],
     "personaSeniority": [
@@ -2744,8 +2582,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -2764,26 +2602,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 565,
-      "accepted": 103,
-      "reverted": 34,
-      "delivered": 565,
-      "replied": 34,
-      "positive": 6,
+      "requests_sent": 1215,
+      "accepted": 270,
+      "reverted": 80,
+      "delivered": 1215,
+      "replied": 79,
+      "positive": 12,
       "meetings": 3
     },
     "rates": {
-      "acceptance": 18.2,
-      "replyOfAccepted": 33,
-      "replyOfSent": 6
+      "acceptance": 22.2,
+      "replyOfAccepted": 29.3,
+      "replyOfSent": 6.5
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "19 of 33",
-      "rankPos": "17 of 33",
-      "rankMtg": "4 of 33"
+      "rankAcc": "9 of 33",
+      "rankPos": "6 of 33",
+      "rankMtg": "13 of 33"
     },
     "weekly": [
       {
@@ -2818,117 +2656,99 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 18000,
-      "currentHigh": 36000,
+      "currentLow": 36000,
+      "currentHigh": 72000,
       "currentMeetings": 3,
-      "basis": "6 positive replies × $3,000–$6,000 per closed engagement",
+      "basis": "12 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
           "positive": 5,
-          "meetings": 2,
-          "low": 14400,
-          "high": 28800
+          "meetings": 1,
+          "low": 15000,
+          "high": 30000
         },
         {
           "label": "Next 13 weeks",
           "positive": 16,
-          "meetings": 8,
-          "low": 46800,
-          "high": 93600
+          "meetings": 4,
+          "low": 48000,
+          "high": 96000
         },
         {
           "label": "Next 26 weeks",
           "positive": 31,
-          "meetings": 16,
-          "low": 93600,
-          "high": 187200
+          "meetings": 8,
+          "low": 93000,
+          "high": 186000
         },
         {
           "label": "Next 52 weeks",
           "positive": 62,
-          "meetings": 31,
-          "low": 187200,
-          "high": 374400
+          "meetings": 16,
+          "low": 186000,
+          "high": 372000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 3
+        "count": 2
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 3
+        "count": 10
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 9
+        "count": 20
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 4
+        "count": 30
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 15
+        "count": 17
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 16
+        "count": 38
       },
       {
         "label": "Asked for more info",
-        "count": 7
+        "count": 26
       },
       {
         "label": "Wants to meet",
-        "count": 6
-      },
-      {
-        "label": "Other",
-        "count": 5
+        "count": 17
       },
       {
         "label": "Asked about role / company",
-        "count": 5
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 2
+        "count": 9
       },
       {
         "label": "Asked about pricing / scope",
-        "count": 1
-      },
-      {
-        "label": "Complained about outreach",
-        "count": 1
+        "count": 2
       }
     ],
     "personaSeniority": [
@@ -3005,8 +2825,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -3025,26 +2845,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 568,
-      "accepted": 147,
-      "reverted": 37,
-      "delivered": 568,
-      "replied": 37,
-      "positive": 12,
+      "requests_sent": 1161,
+      "accepted": 322,
+      "reverted": 92,
+      "delivered": 1161,
+      "replied": 93,
+      "positive": 10,
       "meetings": 5
     },
     "rates": {
-      "acceptance": 25.9,
-      "replyOfAccepted": 25.2,
-      "replyOfSent": 6.5
+      "acceptance": 27.7,
+      "replyOfAccepted": 28.9,
+      "replyOfSent": 8.0
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
       "rankAcc": "1 of 33",
-      "rankPos": "4 of 33",
-      "rankMtg": "3 of 33"
+      "rankPos": "11 of 33",
+      "rankMtg": "4 of 33"
     },
     "weekly": [
       {
@@ -3079,119 +2899,103 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 36000,
-      "currentHigh": 72000,
+      "currentLow": 30000,
+      "currentHigh": 60000,
       "currentMeetings": 5,
-      "basis": "12 positive replies × $3,000–$6,000 per closed engagement",
+      "basis": "10 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 10,
-          "meetings": 4,
-          "low": 28800,
-          "high": 57600
+          "positive": 4,
+          "meetings": 2,
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 31,
-          "meetings": 13,
-          "low": 93600,
-          "high": 187200
+          "positive": 13,
+          "meetings": 6,
+          "low": 39000,
+          "high": 78000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 62,
-          "meetings": 26,
-          "low": 187200,
-          "high": 374400
+          "positive": 26,
+          "meetings": 13,
+          "low": 78000,
+          "high": 156000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 125,
-          "meetings": 52,
-          "low": 374400,
-          "high": 748800
+          "positive": 52,
+          "meetings": 26,
+          "low": 156000,
+          "high": 312000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 5
+        "count": 4
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 7
+        "count": 6
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 7
+        "count": 34
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 3
+        "count": 31
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 13
-      },
-      {
-        "key": "negative_unsubscribe_or_hostile",
-        "label": "Unsubscribe / hostile",
-        "tone": "negative",
-        "count": 2
+        "count": 18
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 13
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 10
+        "count": 50
+      },
+      {
+        "label": "Said not a fit",
+        "count": 36
       },
       {
         "label": "Wants to meet",
-        "count": 10
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 4
+        "count": 20
       },
       {
         "label": "Asked about role / company",
-        "count": 4
+        "count": 13
+      },
+      {
+        "label": "Referred someone else",
+        "count": 2
       },
       {
         "label": "Other",
-        "count": 4
-      },
-      {
-        "label": "Complained about outreach",
-        "count": 2
+        "count": 1
       }
     ],
     "personaSeniority": [
@@ -3277,8 +3081,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -3297,26 +3101,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1325,
-      "requests_sent": 565,
-      "accepted": 90,
-      "reverted": 36,
-      "delivered": 565,
-      "replied": 35,
-      "positive": 13,
-      "meetings": 6
+      "requests_sent": 1208,
+      "accepted": 255,
+      "reverted": 100,
+      "delivered": 1208,
+      "replied": 98,
+      "positive": 19,
+      "meetings": 3
     },
     "rates": {
-      "acceptance": 15.9,
-      "replyOfAccepted": 38.9,
-      "replyOfSent": 6.2
+      "acceptance": 21.1,
+      "replyOfAccepted": 38.4,
+      "replyOfSent": 8.1
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "26 of 33",
-      "rankPos": "2 of 33",
-      "rankMtg": "2 of 33"
+      "rankAcc": "13 of 33",
+      "rankPos": "1 of 33",
+      "rankMtg": "10 of 33"
     },
     "weekly": [
       {
@@ -3351,108 +3155,96 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 39000,
-      "currentHigh": 78000,
-      "currentMeetings": 6,
-      "basis": "13 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 57000,
+      "currentHigh": 114000,
+      "currentMeetings": 3,
+      "basis": "19 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 10,
-          "meetings": 5,
-          "low": 31200,
-          "high": 62400
+          "positive": 8,
+          "meetings": 1,
+          "low": 24000,
+          "high": 48000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 34,
-          "meetings": 16,
-          "low": 101400,
-          "high": 202800
+          "positive": 25,
+          "meetings": 4,
+          "low": 75000,
+          "high": 150000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 68,
-          "meetings": 31,
-          "low": 202800,
-          "high": 405600
+          "positive": 49,
+          "meetings": 8,
+          "low": 147000,
+          "high": 294000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 135,
-          "meetings": 62,
-          "low": 405600,
-          "high": 811200
+          "positive": 99,
+          "meetings": 16,
+          "low": 297000,
+          "high": 594000
         }
       ]
     },
-    "sentiment": [
-      {
-        "key": "positive_meeting_booked",
-        "label": "Meeting booked",
-        "tone": "positive",
-        "count": 6
-      },
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 7
+        "count": 19
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 3
+        "count": 21
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 6
+        "count": 40
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 13
+        "count": 18
       }
     ],
-    "intent": [
+        "intent": [
       {
-        "label": "Said not a fit",
-        "count": 14
+        "label": "Asked for more info",
+        "count": 51
       },
       {
         "label": "Wants to meet",
-        "count": 13
+        "count": 40
       },
       {
-        "label": "Asked for more info",
-        "count": 9
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 7
-      },
-      {
-        "label": "Referred someone else",
-        "count": 2
+        "label": "Said not a fit",
+        "count": 30
       },
       {
         "label": "Asked about role / company",
+        "count": 12
+      },
+      {
+        "label": "Other",
+        "count": 2
+      },
+      {
+        "label": "Referred someone else",
         "count": 2
       }
     ],
@@ -3539,8 +3331,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -3559,18 +3351,18 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1319,
-      "requests_sent": 565,
-      "accepted": 137,
-      "reverted": 37,
-      "delivered": 565,
-      "replied": 37,
-      "positive": 13,
-      "meetings": 2
+      "requests_sent": 828,
+      "accepted": 211,
+      "reverted": 59,
+      "delivered": 828,
+      "replied": 59,
+      "positive": 15,
+      "meetings": 3
     },
     "rates": {
-      "acceptance": 24.2,
-      "replyOfAccepted": 27,
-      "replyOfSent": 6.5
+      "acceptance": 25.5,
+      "replyOfAccepted": 28.0,
+      "replyOfSent": 7.1
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
@@ -3578,7 +3370,7 @@ window.REPORTS = {
       "cohortMedMeetings": 1,
       "rankAcc": "3 of 33",
       "rankPos": "3 of 33",
-      "rankMtg": "10 of 33"
+      "rankMtg": "11 of 33"
     },
     "weekly": [
       {
@@ -3613,109 +3405,95 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 39000,
-      "currentHigh": 78000,
-      "currentMeetings": 2,
-      "basis": "13 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 45000,
+      "currentHigh": 90000,
+      "currentMeetings": 3,
+      "basis": "15 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 10,
-          "meetings": 2,
-          "low": 31200,
-          "high": 62400
+          "positive": 6,
+          "meetings": 1,
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 34,
-          "meetings": 5,
-          "low": 101400,
-          "high": 202800
+          "positive": 20,
+          "meetings": 4,
+          "low": 60000,
+          "high": 120000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 68,
-          "meetings": 10,
-          "low": 202800,
-          "high": 405600
+          "positive": 39,
+          "meetings": 8,
+          "low": 117000,
+          "high": 234000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 135,
-          "meetings": 21,
-          "low": 405600,
-          "high": 811200
+          "positive": 78,
+          "meetings": 16,
+          "low": 234000,
+          "high": 468000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 2
+        "count": 3
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 11
+        "count": 12
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 8
+        "count": 17
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 6
+        "count": 14
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 10
+        "count": 13
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Wants to meet",
-        "count": 12
-      },
-      {
-        "label": "Said not a fit",
-        "count": 11
+        "count": 23
       },
       {
         "label": "Asked for more info",
-        "count": 9
+        "count": 23
       },
       {
-        "label": "Other",
-        "count": 8
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 3
+        "label": "Said not a fit",
+        "count": 16
       },
       {
         "label": "Asked about role / company",
-        "count": 2
+        "count": 13
       }
     ],
     "personaSeniority": [
@@ -3798,8 +3576,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -3818,26 +3596,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1324,
-      "requests_sent": 376,
-      "accepted": 64,
-      "reverted": 18,
-      "delivered": 376,
-      "replied": 18,
+      "requests_sent": 733,
+      "accepted": 137,
+      "reverted": 34,
+      "delivered": 733,
+      "replied": 34,
       "positive": 2,
       "meetings": 1
     },
     "rates": {
-      "acceptance": 17,
-      "replyOfAccepted": 28.1,
-      "replyOfSent": 4.8
+      "acceptance": 18.7,
+      "replyOfAccepted": 24.8,
+      "replyOfSent": 4.6
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "24 of 33",
-      "rankPos": "29 of 33",
-      "rankMtg": "19 of 33"
+      "rankAcc": "25 of 33",
+      "rankPos": "32 of 33",
+      "rankMtg": "26 of 33"
     },
     "weekly": [
       {
@@ -3877,49 +3655,43 @@ window.REPORTS = {
       "currentMeetings": 1,
       "basis": "2 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 2,
-          "meetings": 1,
-          "low": 4800,
-          "high": 9600
+          "positive": 1,
+          "meetings": 0,
+          "low": 3000,
+          "high": 6000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 5,
-          "meetings": 3,
-          "low": 15600,
-          "high": 31200
+          "positive": 3,
+          "meetings": 1,
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 10,
-          "meetings": 5,
-          "low": 31200,
-          "high": 62400
+          "positive": 5,
+          "meetings": 3,
+          "low": 15000,
+          "high": 30000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 21,
-          "meetings": 10,
-          "low": 62400,
-          "high": 124800
+          "positive": 10,
+          "meetings": 5,
+          "low": 30000,
+          "high": 60000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
@@ -3936,49 +3708,37 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 4
+        "count": 11
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 3
+        "count": 10
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 9
+        "count": 11
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 9
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 4
+        "count": 17
       },
       {
-        "label": "Other",
-        "count": 2
-      },
-      {
-        "label": "Referred someone else",
-        "count": 1
+        "label": "Said not a fit",
+        "count": 16
       },
       {
         "label": "Asked about role / company",
-        "count": 1
+        "count": 4
       },
       {
         "label": "Wants to meet",
-        "count": 1
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 1
+        "count": 4
       },
       {
         "label": "Asked about pricing / scope",
@@ -4046,8 +3806,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -4066,26 +3826,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1330,
-      "requests_sent": 472,
-      "accepted": 100,
-      "reverted": 34,
-      "delivered": 472,
-      "replied": 34,
-      "positive": 5,
+      "requests_sent": 769,
+      "accepted": 182,
+      "reverted": 51,
+      "delivered": 769,
+      "replied": 51,
+      "positive": 6,
       "meetings": 1
     },
     "rates": {
-      "acceptance": 21.2,
-      "replyOfAccepted": 34,
-      "replyOfSent": 7.2
+      "acceptance": 23.7,
+      "replyOfAccepted": 28.0,
+      "replyOfSent": 6.6
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "6 of 33",
-      "rankPos": "21 of 33",
-      "rankMtg": "20 of 33"
+      "rankAcc": "5 of 33",
+      "rankPos": "22 of 33",
+      "rankMtg": "22 of 33"
     },
     "weekly": [
       {
@@ -4120,109 +3880,89 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 15000,
-      "currentHigh": 30000,
+      "currentLow": 18000,
+      "currentHigh": 36000,
       "currentMeetings": 1,
-      "basis": "5 positive replies × $3,000–$6,000 per closed engagement",
+      "basis": "6 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 4,
-          "meetings": 1,
-          "low": 12000,
-          "high": 24000
+          "positive": 2,
+          "meetings": 0,
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 13,
-          "meetings": 3,
-          "low": 39000,
-          "high": 78000
+          "positive": 8,
+          "meetings": 1,
+          "low": 24000,
+          "high": 48000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 26,
-          "meetings": 5,
-          "low": 78000,
-          "high": 156000
+          "positive": 16,
+          "meetings": 3,
+          "low": 48000,
+          "high": 96000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 52,
-          "meetings": 10,
-          "low": 156000,
-          "high": 312000
+          "positive": 31,
+          "meetings": 5,
+          "low": 93000,
+          "high": 186000
         }
       ]
     },
-    "sentiment": [
-      {
-        "key": "positive_meeting_booked",
-        "label": "Meeting booked",
-        "tone": "positive",
-        "count": 1
-      },
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 4
+        "count": 6
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 6
+        "count": 14
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 1
+        "count": 15
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 22
+        "count": 16
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 23
-      },
-      {
-        "label": "Asked for more info",
-        "count": 8
+        "count": 25
       },
       {
         "label": "Wants to meet",
-        "count": 5
+        "count": 18
+      },
+      {
+        "label": "Asked for more info",
+        "count": 18
       },
       {
         "label": "Asked about role / company",
-        "count": 3
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 2
-      },
-      {
-        "label": "Other",
-        "count": 1
+        "count": 6
       }
     ],
     "personaSeniority": [
@@ -4299,8 +4039,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -4319,26 +4059,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 569,
-      "accepted": 120,
-      "reverted": 37,
-      "delivered": 569,
-      "replied": 37,
+      "requests_sent": 1214,
+      "accepted": 258,
+      "reverted": 76,
+      "delivered": 1214,
+      "replied": 76,
       "positive": 7,
       "meetings": 2
     },
     "rates": {
-      "acceptance": 21.1,
-      "replyOfAccepted": 30.8,
-      "replyOfSent": 6.5
+      "acceptance": 21.3,
+      "replyOfAccepted": 29.5,
+      "replyOfSent": 6.3
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "7 of 33",
-      "rankPos": "14 of 33",
-      "rankMtg": "11 of 33"
+      "rankAcc": "12 of 33",
+      "rankPos": "18 of 33",
+      "rankMtg": "17 of 33"
     },
     "weekly": [
       {
@@ -4378,49 +4118,43 @@ window.REPORTS = {
       "currentMeetings": 2,
       "basis": "7 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 6,
-          "meetings": 2,
-          "low": 16800,
-          "high": 33600
+          "positive": 3,
+          "meetings": 1,
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 18,
-          "meetings": 5,
-          "low": 54600,
-          "high": 109200
+          "positive": 9,
+          "meetings": 3,
+          "low": 27000,
+          "high": 54000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 36,
-          "meetings": 10,
-          "low": 109200,
-          "high": 218400
+          "positive": 18,
+          "meetings": 5,
+          "low": 54000,
+          "high": 108000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 73,
-          "meetings": 21,
-          "low": 218400,
-          "high": 436800
+          "positive": 36,
+          "meetings": 10,
+          "low": 108000,
+          "high": 216000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
@@ -4437,52 +4171,44 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 6
+        "count": 15
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 8
+        "count": 41
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 16
+        "count": 13
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 16
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 8
+        "count": 35
+      },
+      {
+        "label": "Said not a fit",
+        "count": 28
       },
       {
         "label": "Wants to meet",
-        "count": 7
-      },
-      {
-        "label": "Other",
-        "count": 4
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 3
+        "count": 20
       },
       {
         "label": "Asked about role / company",
+        "count": 6
+      },
+      {
+        "label": "Other",
         "count": 3
       },
       {
-        "label": "Complained about outreach",
-        "count": 1
-      },
-      {
-        "label": "Shared resume / portfolio",
+        "label": "Referred someone else",
         "count": 1
       }
     ],
@@ -4569,8 +4295,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -4589,26 +4315,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1328,
-      "requests_sent": 374,
-      "accepted": 57,
-      "reverted": 15,
-      "delivered": 374,
-      "replied": 15,
-      "positive": 1,
-      "meetings": 1
+      "requests_sent": 760,
+      "accepted": 129,
+      "reverted": 27,
+      "delivered": 760,
+      "replied": 27,
+      "positive": 5,
+      "meetings": 2
     },
     "rates": {
-      "acceptance": 15.2,
-      "replyOfAccepted": 26.3,
-      "replyOfSent": 4
+      "acceptance": 17.0,
+      "replyOfAccepted": 20.9,
+      "replyOfSent": 3.6
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
       "rankAcc": "29 of 33",
-      "rankPos": "32 of 33",
-      "rankMtg": "21 of 33"
+      "rankPos": "28 of 33",
+      "rankMtg": "20 of 33"
     },
     "weekly": [
       {
@@ -4643,59 +4369,59 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 3000,
-      "currentHigh": 6000,
-      "currentMeetings": 1,
-      "basis": "1 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 15000,
+      "currentHigh": 30000,
+      "currentMeetings": 2,
+      "basis": "5 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 1,
+          "positive": 2,
           "meetings": 1,
-          "low": 2400,
-          "high": 4800
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 3,
+          "positive": 6,
           "meetings": 3,
-          "low": 7800,
-          "high": 15600
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 5,
+          "positive": 13,
           "meetings": 5,
-          "low": 15600,
-          "high": 31200
+          "low": 39000,
+          "high": 78000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 10,
+          "positive": 26,
           "meetings": 10,
-          "low": 31200,
-          "high": 62400
+          "low": 78000,
+          "high": 156000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 1
+        "count": 2
+      },
+      {
+        "key": "positive_interested",
+        "label": "Interested",
+        "tone": "positive",
+        "count": 3
       },
       {
         "key": "neutral_curious_question",
@@ -4707,39 +4433,31 @@ window.REPORTS = {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 3
+        "count": 13
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 7
+        "count": 5
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 7
+        "count": 12
       },
       {
         "label": "Asked for more info",
-        "count": 5
-      },
-      {
-        "label": "Other",
-        "count": 2
+        "count": 11
       },
       {
         "label": "Wants to meet",
-        "count": 1
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 1
+        "count": 5
       },
       {
         "label": "Asked about role / company",
-        "count": 1
+        "count": 4
       }
     ],
     "personaSeniority": [
@@ -4800,8 +4518,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -4820,26 +4538,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1321,
-      "requests_sent": 493,
-      "accepted": 96,
-      "reverted": 32,
-      "delivered": 493,
-      "replied": 32,
+      "requests_sent": 1012,
+      "accepted": 205,
+      "reverted": 68,
+      "delivered": 1012,
+      "replied": 68,
       "positive": 6,
       "meetings": 3
     },
     "rates": {
-      "acceptance": 19.5,
-      "replyOfAccepted": 33.3,
-      "replyOfSent": 6.5
+      "acceptance": 20.3,
+      "replyOfAccepted": 33.2,
+      "replyOfSent": 6.7
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "12 of 33",
-      "rankPos": "18 of 33",
-      "rankMtg": "5 of 33"
+      "rankAcc": "16 of 33",
+      "rankPos": "21 of 33",
+      "rankMtg": "14 of 33"
     },
     "weekly": [
       {
@@ -4879,49 +4597,43 @@ window.REPORTS = {
       "currentMeetings": 3,
       "basis": "6 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 5,
-          "meetings": 2,
-          "low": 14400,
-          "high": 28800
+          "positive": 2,
+          "meetings": 1,
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 16,
-          "meetings": 8,
-          "low": 46800,
-          "high": 93600
+          "positive": 8,
+          "meetings": 4,
+          "low": 24000,
+          "high": 48000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 31,
-          "meetings": 16,
-          "low": 93600,
-          "high": 187200
+          "positive": 16,
+          "meetings": 8,
+          "low": 48000,
+          "high": 96000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 62,
-          "meetings": 31,
-          "low": 187200,
-          "high": 374400
+          "positive": 31,
+          "meetings": 16,
+          "low": 93000,
+          "high": 186000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
@@ -4938,52 +4650,52 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 4
+        "count": 22
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 2
+        "count": 19
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 20
+        "count": 21
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
+        "count": 30
+      },
+      {
+        "label": "Asked for more info",
         "count": 20
       },
       {
         "label": "Wants to meet",
-        "count": 5
+        "count": 14
       },
       {
-        "label": "Asked for more info",
-        "count": 4
+        "label": "Asked about role / company",
+        "count": 13
       },
       {
         "label": "Asked about pricing / scope",
         "count": 2
       },
       {
-        "label": "Shared Calendly / email",
+        "label": "Referred someone else",
         "count": 2
       },
       {
-        "label": "Complained about outreach",
-        "count": 1
-      },
-      {
-        "label": "Shared resume / portfolio",
-        "count": 1
-      },
-      {
         "label": "Other",
+        "count": 1
+      },
+      {
+        "label": "Shared Calendly / email",
         "count": 1
       }
     ],
@@ -5058,8 +4770,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -5078,26 +4790,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1329,
-      "requests_sent": 564,
-      "accepted": 89,
-      "reverted": 27,
-      "delivered": 564,
-      "replied": 27,
-      "positive": 6,
-      "meetings": 2
+      "requests_sent": 1190,
+      "accepted": 207,
+      "reverted": 63,
+      "delivered": 1190,
+      "replied": 63,
+      "positive": 9,
+      "meetings": 4
     },
     "rates": {
-      "acceptance": 15.8,
-      "replyOfAccepted": 30.3,
-      "replyOfSent": 4.8
+      "acceptance": 17.4,
+      "replyOfAccepted": 30.4,
+      "replyOfSent": 5.3
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "27 of 33",
-      "rankPos": "19 of 33",
-      "rankMtg": "12 of 33"
+      "rankAcc": "28 of 33",
+      "rankPos": "13 of 33",
+      "rankMtg": "9 of 33"
     },
     "weekly": [
       {
@@ -5132,112 +4844,98 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 18000,
-      "currentHigh": 36000,
-      "currentMeetings": 2,
-      "basis": "6 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 27000,
+      "currentHigh": 54000,
+      "currentMeetings": 4,
+      "basis": "9 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 5,
+          "positive": 4,
           "meetings": 2,
-          "low": 14400,
-          "high": 28800
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 16,
+          "positive": 12,
           "meetings": 5,
-          "low": 46800,
-          "high": 93600
+          "low": 36000,
+          "high": 72000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 31,
+          "positive": 23,
           "meetings": 10,
-          "low": 93600,
-          "high": 187200
+          "low": 69000,
+          "high": 138000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 62,
+          "positive": 47,
           "meetings": 21,
-          "low": 187200,
-          "high": 374400
+          "low": 141000,
+          "high": 282000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 2
+        "count": 4
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 4
+        "count": 5
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 6
+        "count": 10
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 2
+        "count": 22
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 13
+        "count": 22
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 13
-      },
-      {
-        "label": "Wants to meet",
-        "count": 6
+        "count": 33
       },
       {
         "label": "Asked for more info",
-        "count": 5
+        "count": 21
       },
       {
-        "label": "Other",
-        "count": 3
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 2
+        "label": "Wants to meet",
+        "count": 17
       },
       {
         "label": "Asked about role / company",
-        "count": 2
+        "count": 7
       },
       {
-        "label": "Asked about pricing / scope",
+        "label": "Referred someone else",
         "count": 1
       }
     ],
@@ -5312,8 +5010,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -5332,26 +5030,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 568,
-      "accepted": 107,
-      "reverted": 36,
-      "delivered": 568,
-      "replied": 36,
-      "positive": 7,
+      "requests_sent": 950,
+      "accepted": 197,
+      "reverted": 63,
+      "delivered": 950,
+      "replied": 63,
+      "positive": 5,
       "meetings": 0
     },
     "rates": {
-      "acceptance": 18.8,
-      "replyOfAccepted": 33.6,
-      "replyOfSent": 6.3
+      "acceptance": 20.7,
+      "replyOfAccepted": 32.0,
+      "replyOfSent": 6.6
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "17 of 33",
-      "rankPos": "15 of 33",
-      "rankMtg": "28 of 33"
+      "rankAcc": "14 of 33",
+      "rankPos": "23 of 33",
+      "rankMtg": "31 of 33"
     },
     "weekly": [
       {
@@ -5386,106 +5084,96 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 21000,
-      "currentHigh": 42000,
+      "currentLow": 15000,
+      "currentHigh": 30000,
       "currentMeetings": 0,
-      "basis": "7 positive replies × $3,000–$6,000 per closed engagement",
+      "basis": "5 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 6,
+          "positive": 2,
           "meetings": 0,
-          "low": 16800,
-          "high": 33600
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 18,
+          "positive": 6,
           "meetings": 0,
-          "low": 54600,
-          "high": 109200
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 36,
+          "positive": 13,
           "meetings": 0,
-          "low": 109200,
-          "high": 218400
+          "low": 39000,
+          "high": 78000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 73,
+          "positive": 26,
           "meetings": 0,
-          "low": 218400,
-          "high": 436800
+          "low": 78000,
+          "high": 156000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 7
+        "count": 5
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 9
+        "count": 24
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 3
+        "count": 18
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 17
+        "count": 16
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 16
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 9
+        "count": 34
       },
       {
-        "label": "Other",
-        "count": 6
+        "label": "Said not a fit",
+        "count": 19
       },
       {
         "label": "Wants to meet",
-        "count": 5
+        "count": 15
       },
       {
         "label": "Asked about role / company",
-        "count": 3
-      },
-      {
-        "label": "Referred someone else",
-        "count": 1
+        "count": 10
       },
       {
         "label": "Asked about pricing / scope",
+        "count": 1
+      },
+      {
+        "label": "Other",
         "count": 1
       }
     ],
@@ -5563,8 +5251,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -5583,26 +5271,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 496,
-      "accepted": 94,
-      "reverted": 28,
-      "delivered": 496,
-      "replied": 28,
-      "positive": 3,
-      "meetings": 0
+      "requests_sent": 1014,
+      "accepted": 195,
+      "reverted": 57,
+      "delivered": 1014,
+      "replied": 57,
+      "positive": 1,
+      "meetings": 1
     },
     "rates": {
-      "acceptance": 19,
-      "replyOfAccepted": 29.8,
+      "acceptance": 19.2,
+      "replyOfAccepted": 29.2,
       "replyOfSent": 5.6
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "16 of 33",
-      "rankPos": "26 of 33",
-      "rankMtg": "29 of 33"
+      "rankAcc": "22 of 33",
+      "rankPos": "33 of 33",
+      "rankMtg": "24 of 33"
     },
     "weekly": [
       {
@@ -5637,71 +5325,65 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 9000,
-      "currentHigh": 18000,
-      "currentMeetings": 0,
-      "basis": "3 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 3000,
+      "currentHigh": 6000,
+      "currentMeetings": 1,
+      "basis": "1 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 2,
+          "positive": 0,
           "meetings": 0,
-          "low": 7200,
-          "high": 14400
+          "low": 0,
+          "high": 0
         },
         {
           "label": "Next 13 weeks",
-          "positive": 8,
-          "meetings": 0,
-          "low": 23400,
-          "high": 46800
+          "positive": 1,
+          "meetings": 1,
+          "low": 3000,
+          "high": 6000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 16,
-          "meetings": 0,
-          "low": 46800,
-          "high": 93600
+          "positive": 3,
+          "meetings": 3,
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 31,
-          "meetings": 0,
-          "low": 93600,
-          "high": 187200
+          "positive": 5,
+          "meetings": 5,
+          "low": 15000,
+          "high": 30000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 3
+        "count": 1
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 5
+        "count": 14
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 6
+        "count": 28
       },
       {
         "key": "negative_polite_decline",
@@ -5710,38 +5392,30 @@ window.REPORTS = {
         "count": 14
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 16
+        "count": 29
       },
       {
         "label": "Asked for more info",
-        "count": 5
-      },
-      {
-        "label": "Other",
-        "count": 4
+        "count": 19
       },
       {
         "label": "Wants to meet",
+        "count": 7
+      },
+      {
+        "label": "Asked about role / company",
+        "count": 7
+      },
+      {
+        "label": "Other",
         "count": 3
       },
       {
         "label": "Referred someone else",
         "count": 2
-      },
-      {
-        "label": "Asked about role / company",
-        "count": 2
-      },
-      {
-        "label": "Asked about pricing / scope",
-        "count": 1
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 1
       }
     ],
     "personaSeniority": [
@@ -5816,8 +5490,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -5836,26 +5510,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1329,
-      "requests_sent": 561,
-      "accepted": 92,
-      "reverted": 29,
-      "delivered": 561,
-      "replied": 29,
-      "positive": 9,
-      "meetings": 1
+      "requests_sent": 1206,
+      "accepted": 227,
+      "reverted": 54,
+      "delivered": 1206,
+      "replied": 54,
+      "positive": 13,
+      "meetings": 4
     },
     "rates": {
-      "acceptance": 16.4,
-      "replyOfAccepted": 31.5,
-      "replyOfSent": 5.2
+      "acceptance": 18.8,
+      "replyOfAccepted": 23.8,
+      "replyOfSent": 4.5
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "25 of 33",
-      "rankPos": "6 of 33",
-      "rankMtg": "22 of 33"
+      "rankAcc": "24 of 33",
+      "rankPos": "5 of 33",
+      "rankMtg": "6 of 33"
     },
     "weekly": [
       {
@@ -5890,112 +5564,98 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 27000,
-      "currentHigh": 54000,
-      "currentMeetings": 1,
-      "basis": "9 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 39000,
+      "currentHigh": 78000,
+      "currentMeetings": 4,
+      "basis": "13 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 7,
-          "meetings": 1,
-          "low": 21600,
-          "high": 43200
+          "positive": 5,
+          "meetings": 2,
+          "low": 15000,
+          "high": 30000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 23,
-          "meetings": 3,
-          "low": 70200,
-          "high": 140400
+          "positive": 17,
+          "meetings": 5,
+          "low": 51000,
+          "high": 102000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 47,
-          "meetings": 5,
-          "low": 140400,
-          "high": 280800
+          "positive": 34,
+          "meetings": 10,
+          "low": 102000,
+          "high": 204000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 94,
-          "meetings": 10,
-          "low": 280800,
-          "high": 561600
+          "positive": 68,
+          "meetings": 21,
+          "low": 204000,
+          "high": 408000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 1
+        "count": 3
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 8
+        "count": 10
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 5
+        "count": 20
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 1
+        "count": 10
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 14
+        "count": 11
       }
     ],
-    "intent": [
+        "intent": [
       {
-        "label": "Said not a fit",
-        "count": 13
+        "label": "Asked for more info",
+        "count": 25
       },
       {
         "label": "Wants to meet",
-        "count": 9
+        "count": 21
       },
       {
-        "label": "Asked for more info",
-        "count": 6
-      },
-      {
-        "label": "Other",
-        "count": 3
+        "label": "Said not a fit",
+        "count": 17
       },
       {
         "label": "Asked about role / company",
-        "count": 1
+        "count": 7
       },
       {
         "label": "Referred someone else",
-        "count": 1
-      },
-      {
-        "label": "Shared Calendly / email",
         "count": 1
       }
     ],
@@ -6070,8 +5730,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -6090,26 +5750,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 490,
-      "accepted": 91,
-      "reverted": 25,
-      "delivered": 490,
-      "replied": 25,
-      "positive": 3,
+      "requests_sent": 1008,
+      "accepted": 202,
+      "reverted": 55,
+      "delivered": 1008,
+      "replied": 55,
+      "positive": 8,
       "meetings": 2
     },
     "rates": {
-      "acceptance": 18.6,
-      "replyOfAccepted": 27.5,
-      "replyOfSent": 5.1
+      "acceptance": 20.0,
+      "replyOfAccepted": 27.2,
+      "replyOfSent": 5.5
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "18 of 33",
-      "rankPos": "27 of 33",
-      "rankMtg": "13 of 33"
+      "rankAcc": "20 of 33",
+      "rankPos": "15 of 33",
+      "rankMtg": "19 of 33"
     },
     "weekly": [
       {
@@ -6144,54 +5804,48 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 9000,
-      "currentHigh": 18000,
+      "currentLow": 24000,
+      "currentHigh": 48000,
       "currentMeetings": 2,
-      "basis": "3 positive replies × $3,000–$6,000 per closed engagement",
+      "basis": "8 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 2,
-          "meetings": 2,
-          "low": 7200,
-          "high": 14400
+          "positive": 3,
+          "meetings": 1,
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 8,
-          "meetings": 5,
-          "low": 23400,
-          "high": 46800
+          "positive": 10,
+          "meetings": 3,
+          "low": 30000,
+          "high": 60000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 16,
-          "meetings": 10,
-          "low": 46800,
-          "high": 93600
+          "positive": 21,
+          "meetings": 5,
+          "low": 63000,
+          "high": 126000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 31,
-          "meetings": 21,
-          "low": 93600,
-          "high": 187200
+          "positive": 42,
+          "meetings": 10,
+          "low": 126000,
+          "high": 252000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
@@ -6202,55 +5856,43 @@ window.REPORTS = {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 1
+        "count": 6
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 9
+        "count": 14
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 6
+        "count": 20
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 7
+        "count": 13
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 7
+        "count": 25
       },
       {
         "label": "Asked for more info",
-        "count": 6
+        "count": 16
       },
       {
         "label": "Wants to meet",
-        "count": 4
+        "count": 13
       },
       {
         "label": "Asked about role / company",
-        "count": 4
-      },
-      {
-        "label": "Other",
-        "count": 4
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 3
-      },
-      {
-        "label": "Referred someone else",
-        "count": 1
+        "count": 12
       }
     ],
     "personaSeniority": [
@@ -6324,8 +5966,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -6344,26 +5986,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1326,
-      "requests_sent": 565,
-      "accepted": 109,
-      "reverted": 39,
-      "delivered": 565,
-      "replied": 39,
-      "positive": 5,
-      "meetings": 2
+      "requests_sent": 1211,
+      "accepted": 267,
+      "reverted": 86,
+      "delivered": 1211,
+      "replied": 86,
+      "positive": 14,
+      "meetings": 6
     },
     "rates": {
-      "acceptance": 19.3,
-      "replyOfAccepted": 35.8,
-      "replyOfSent": 6.9
+      "acceptance": 22.0,
+      "replyOfAccepted": 32.2,
+      "replyOfSent": 7.1
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "13 of 33",
-      "rankPos": "22 of 33",
-      "rankMtg": "14 of 33"
+      "rankAcc": "11 of 33",
+      "rankPos": "4 of 33",
+      "rankMtg": "3 of 33"
     },
     "weekly": [
       {
@@ -6398,113 +6040,107 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 15000,
-      "currentHigh": 30000,
-      "currentMeetings": 2,
-      "basis": "5 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 42000,
+      "currentHigh": 84000,
+      "currentMeetings": 6,
+      "basis": "14 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 4,
+          "positive": 6,
           "meetings": 2,
-          "low": 12000,
-          "high": 24000
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 13,
-          "meetings": 5,
-          "low": 39000,
-          "high": 78000
+          "positive": 18,
+          "meetings": 8,
+          "low": 54000,
+          "high": 108000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 26,
-          "meetings": 10,
-          "low": 78000,
-          "high": 156000
+          "positive": 36,
+          "meetings": 16,
+          "low": 108000,
+          "high": 216000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 52,
-          "meetings": 21,
-          "low": 156000,
-          "high": 312000
+          "positive": 73,
+          "meetings": 31,
+          "low": 219000,
+          "high": 438000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 2
+        "count": 6
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 3
+        "count": 8
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 13
+        "count": 21
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 4
+        "count": 33
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 17
+        "count": 18
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 19
+        "count": 37
       },
       {
         "label": "Asked for more info",
-        "count": 10
-      },
-      {
-        "label": "Other",
-        "count": 5
-      },
-      {
-        "label": "Asked about role / company",
-        "count": 5
+        "count": 30
       },
       {
         "label": "Wants to meet",
-        "count": 3
+        "count": 22
       },
       {
-        "label": "Shared Calendly / email",
-        "count": 3
+        "label": "Asked about role / company",
+        "count": 22
+      },
+      {
+        "label": "Other",
+        "count": 2
+      },
+      {
+        "label": "Referred someone else",
+        "count": 1
       },
       {
         "label": "Asked about pricing / scope",
-        "count": 2
+        "count": 1
       }
     ],
     "personaSeniority": [
@@ -6586,8 +6222,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -6606,26 +6242,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 562,
-      "accepted": 117,
-      "reverted": 32,
-      "delivered": 562,
-      "replied": 32,
-      "positive": 10,
-      "meetings": 0
+      "requests_sent": 1210,
+      "accepted": 274,
+      "reverted": 82,
+      "delivered": 1210,
+      "replied": 82,
+      "positive": 9,
+      "meetings": 3
     },
     "rates": {
-      "acceptance": 20.8,
-      "replyOfAccepted": 27.4,
-      "replyOfSent": 5.7
+      "acceptance": 22.6,
+      "replyOfAccepted": 29.9,
+      "replyOfSent": 6.8
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "9 of 33",
-      "rankPos": "5 of 33",
-      "rankMtg": "30 of 33"
+      "rankAcc": "7 of 33",
+      "rankPos": "12 of 33",
+      "rankMtg": "12 of 33"
     },
     "weekly": [
       {
@@ -6660,110 +6296,102 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 30000,
-      "currentHigh": 60000,
-      "currentMeetings": 0,
-      "basis": "10 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 27000,
+      "currentHigh": 54000,
+      "currentMeetings": 3,
+      "basis": "9 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 8,
-          "meetings": 0,
-          "low": 24000,
-          "high": 48000
+          "positive": 4,
+          "meetings": 1,
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 26,
-          "meetings": 0,
-          "low": 78000,
-          "high": 156000
+          "positive": 12,
+          "meetings": 4,
+          "low": 36000,
+          "high": 72000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 52,
-          "meetings": 0,
-          "low": 156000,
-          "high": 312000
+          "positive": 23,
+          "meetings": 8,
+          "low": 69000,
+          "high": 138000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 104,
-          "meetings": 0,
-          "low": 312000,
-          "high": 624000
+          "positive": 47,
+          "meetings": 16,
+          "low": 141000,
+          "high": 282000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
+      {
+        "key": "positive_meeting_booked",
+        "label": "Meeting booked",
+        "tone": "positive",
+        "count": 3
+      },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 10
+        "count": 6
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 3
+        "count": 18
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 5
+        "count": 30
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 14
+        "count": 25
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 14
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 11
+        "count": 39
+      },
+      {
+        "label": "Said not a fit",
+        "count": 37
       },
       {
         "label": "Wants to meet",
-        "count": 10
+        "count": 21
       },
       {
         "label": "Asked about role / company",
-        "count": 4
-      },
-      {
-        "label": "Other",
-        "count": 3
+        "count": 8
       },
       {
         "label": "Referred someone else",
-        "count": 2
-      },
-      {
-        "label": "Asked about pricing / scope",
         "count": 1
       },
       {
-        "label": "Shared resume / portfolio",
+        "label": "Asked about pricing / scope",
         "count": 1
       }
     ],
@@ -6834,8 +6462,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -6854,26 +6482,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 565,
-      "accepted": 109,
-      "reverted": 33,
-      "delivered": 565,
-      "replied": 33,
-      "positive": 9,
-      "meetings": 0
+      "requests_sent": 1188,
+      "accepted": 224,
+      "reverted": 55,
+      "delivered": 1188,
+      "replied": 55,
+      "positive": 11,
+      "meetings": 2
     },
     "rates": {
-      "acceptance": 19.3,
-      "replyOfAccepted": 30.3,
-      "replyOfSent": 5.8
+      "acceptance": 18.9,
+      "replyOfAccepted": 24.6,
+      "replyOfSent": 4.6
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "14 of 33",
+      "rankAcc": "23 of 33",
       "rankPos": "7 of 33",
-      "rankMtg": "31 of 33"
+      "rankMtg": "16 of 33"
     },
     "weekly": [
       {
@@ -6908,54 +6536,54 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 27000,
-      "currentHigh": 54000,
-      "currentMeetings": 0,
-      "basis": "9 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 33000,
+      "currentHigh": 66000,
+      "currentMeetings": 2,
+      "basis": "11 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 7,
-          "meetings": 0,
-          "low": 21600,
-          "high": 43200
+          "positive": 4,
+          "meetings": 1,
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 23,
-          "meetings": 0,
-          "low": 70200,
-          "high": 140400
+          "positive": 14,
+          "meetings": 3,
+          "low": 42000,
+          "high": 84000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 47,
-          "meetings": 0,
-          "low": 140400,
-          "high": 280800
+          "positive": 29,
+          "meetings": 5,
+          "low": 87000,
+          "high": 174000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 94,
-          "meetings": 0,
-          "low": 280800,
-          "high": 561600
+          "positive": 57,
+          "meetings": 10,
+          "low": 171000,
+          "high": 342000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
+      {
+        "key": "positive_meeting_booked",
+        "label": "Meeting booked",
+        "tone": "positive",
+        "count": 2
+      },
       {
         "key": "positive_interested",
         "label": "Interested",
@@ -6966,45 +6594,41 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 6
+        "count": 16
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 5
+        "count": 17
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 13
+        "count": 11
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 13
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 11
+        "count": 28
       },
       {
         "label": "Wants to meet",
-        "count": 10
+        "count": 19
+      },
+      {
+        "label": "Said not a fit",
+        "count": 17
       },
       {
         "label": "Asked about role / company",
-        "count": 4
+        "count": 6
       },
       {
         "label": "Other",
-        "count": 2
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 2
+        "count": 3
       },
       {
         "label": "Referred someone else",
@@ -7091,8 +6715,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -7111,26 +6735,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1320,
-      "requests_sent": 566,
-      "accepted": 68,
-      "reverted": 17,
-      "delivered": 566,
-      "replied": 17,
-      "positive": 1,
+      "requests_sent": 1217,
+      "accepted": 154,
+      "reverted": 39,
+      "delivered": 1217,
+      "replied": 39,
+      "positive": 3,
       "meetings": 0
     },
     "rates": {
-      "acceptance": 12,
-      "replyOfAccepted": 25,
-      "replyOfSent": 3
+      "acceptance": 12.7,
+      "replyOfAccepted": 25.3,
+      "replyOfSent": 3.2
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
       "rankAcc": "33 of 33",
-      "rankPos": "33 of 33",
-      "rankMtg": "32 of 33"
+      "rankPos": "30 of 33",
+      "rankMtg": "33 of 33"
     },
     "weekly": [
       {
@@ -7165,20 +6789,14 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 3000,
-      "currentHigh": 6000,
+      "currentLow": 9000,
+      "currentHigh": 18000,
       "currentMeetings": 0,
-      "basis": "1 positive replies × $3,000–$6,000 per closed engagement",
+      "basis": "3 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
@@ -7186,81 +6804,77 @@ window.REPORTS = {
           "label": "Next 4 weeks",
           "positive": 1,
           "meetings": 0,
-          "low": 2400,
-          "high": 4800
+          "low": 3000,
+          "high": 6000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 3,
+          "positive": 4,
           "meetings": 0,
-          "low": 7800,
-          "high": 15600
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 5,
+          "positive": 8,
           "meetings": 0,
-          "low": 15600,
-          "high": 31200
+          "low": 24000,
+          "high": 48000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 10,
+          "positive": 16,
           "meetings": 0,
-          "low": 31200,
-          "high": 62400
+          "low": 48000,
+          "high": 96000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 1
+        "count": 3
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 4
+        "count": 12
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 1
+        "count": 11
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 11
+        "count": 13
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 11
+        "count": 19
       },
       {
         "label": "Asked for more info",
-        "count": 3
-      },
-      {
-        "label": "Other",
-        "count": 2
+        "count": 11
       },
       {
         "label": "Wants to meet",
-        "count": 1
+        "count": 8
       },
       {
         "label": "Asked about role / company",
-        "count": 1
+        "count": 8
       },
       {
-        "label": "Referred someone else",
+        "label": "Asked about pricing / scope",
         "count": 1
       }
     ],
@@ -7318,8 +6932,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -7338,26 +6952,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1326,
-      "requests_sent": 249,
-      "accepted": 37,
-      "reverted": 8,
-      "delivered": 249,
-      "replied": 8,
-      "positive": 2,
+      "requests_sent": 508,
+      "accepted": 74,
+      "reverted": 17,
+      "delivered": 508,
+      "replied": 17,
+      "positive": 3,
       "meetings": 1
     },
     "rates": {
-      "acceptance": 14.9,
-      "replyOfAccepted": 21.6,
-      "replyOfSent": 3.2
+      "acceptance": 14.6,
+      "replyOfAccepted": 23.0,
+      "replyOfSent": 3.3
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "30 of 33",
-      "rankPos": "30 of 33",
-      "rankMtg": "23 of 33"
+      "rankAcc": "31 of 33",
+      "rankPos": "29 of 33",
+      "rankMtg": "27 of 33"
     },
     "weekly": [
       {
@@ -7392,54 +7006,48 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 6000,
-      "currentHigh": 12000,
+      "currentLow": 9000,
+      "currentHigh": 18000,
       "currentMeetings": 1,
-      "basis": "2 positive replies × $3,000–$6,000 per closed engagement",
+      "basis": "3 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 2,
-          "meetings": 1,
-          "low": 4800,
-          "high": 9600
+          "positive": 1,
+          "meetings": 0,
+          "low": 3000,
+          "high": 6000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 5,
-          "meetings": 3,
-          "low": 15600,
-          "high": 31200
+          "positive": 4,
+          "meetings": 1,
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 10,
-          "meetings": 5,
-          "low": 31200,
-          "high": 62400
+          "positive": 8,
+          "meetings": 3,
+          "low": 24000,
+          "high": 48000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 21,
-          "meetings": 10,
-          "low": 62400,
-          "high": 124800
+          "positive": 16,
+          "meetings": 5,
+          "low": 48000,
+          "high": 96000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
@@ -7450,36 +7058,50 @@ window.REPORTS = {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 1
+        "count": 2
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 2
+        "count": 5
+      },
+      {
+        "key": "neutral_not_now_circle_back",
+        "label": "Not now / circle back",
+        "tone": "neutral",
+        "count": 6
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 4
+        "count": 3
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 4
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 2
+        "count": 6
+      },
+      {
+        "label": "Said not a fit",
+        "count": 6
       },
       {
         "label": "Wants to meet",
+        "count": 6
+      },
+      {
+        "label": "Asked about role / company",
+        "count": 3
+      },
+      {
+        "label": "Referred someone else",
         "count": 1
       },
       {
-        "label": "Other",
+        "label": "Asked about pricing / scope",
         "count": 1
       }
     ],
@@ -7539,8 +7161,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -7559,26 +7181,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1326,
-      "requests_sent": 569,
-      "accepted": 98,
-      "reverted": 25,
-      "delivered": 569,
-      "replied": 25,
-      "positive": 4,
-      "meetings": 1
+      "requests_sent": 1215,
+      "accepted": 246,
+      "reverted": 61,
+      "delivered": 1215,
+      "replied": 61,
+      "positive": 5,
+      "meetings": 3
     },
     "rates": {
-      "acceptance": 17.2,
-      "replyOfAccepted": 25.5,
-      "replyOfSent": 4.4
+      "acceptance": 20.2,
+      "replyOfAccepted": 24.8,
+      "replyOfSent": 5.0
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "23 of 33",
-      "rankPos": "24 of 33",
-      "rankMtg": "24 of 33"
+      "rankAcc": "18 of 33",
+      "rankPos": "25 of 33",
+      "rankMtg": "15 of 33"
     },
     "weekly": [
       {
@@ -7613,59 +7235,53 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 12000,
-      "currentHigh": 24000,
-      "currentMeetings": 1,
-      "basis": "4 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 15000,
+      "currentHigh": 30000,
+      "currentMeetings": 3,
+      "basis": "5 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 3,
+          "positive": 2,
           "meetings": 1,
-          "low": 9600,
-          "high": 19200
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 10,
-          "meetings": 3,
-          "low": 31200,
-          "high": 62400
+          "positive": 6,
+          "meetings": 4,
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 21,
-          "meetings": 5,
-          "low": 62400,
-          "high": 124800
+          "positive": 13,
+          "meetings": 8,
+          "low": 39000,
+          "high": 78000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 42,
-          "meetings": 10,
-          "low": 124800,
-          "high": 249600
+          "positive": 26,
+          "meetings": 16,
+          "low": 78000,
+          "high": 156000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 1
+        "count": 2
       },
       {
         "key": "positive_interested",
@@ -7677,45 +7293,41 @@ window.REPORTS = {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 1
+        "count": 13
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 6
+        "count": 31
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 14
+        "count": 12
       }
     ],
-    "intent": [
+        "intent": [
+      {
+        "label": "Asked for more info",
+        "count": 26
+      },
       {
         "label": "Said not a fit",
-        "count": 15
+        "count": 26
       },
       {
         "label": "Wants to meet",
-        "count": 4
-      },
-      {
-        "label": "Asked for more info",
-        "count": 3
-      },
-      {
-        "label": "Other",
-        "count": 2
+        "count": 15
       },
       {
         "label": "Asked about role / company",
-        "count": 2
+        "count": 9
       },
       {
-        "label": "Shared Calendly / email",
-        "count": 2
+        "label": "Referred someone else",
+        "count": 1
       }
     ],
     "personaSeniority": [
@@ -7787,8 +7399,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -7807,26 +7419,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1326,
-      "requests_sent": 555,
-      "accepted": 109,
-      "reverted": 30,
-      "delivered": 555,
-      "replied": 30,
-      "positive": 9,
-      "meetings": 0
+      "requests_sent": 842,
+      "accepted": 168,
+      "reverted": 46,
+      "delivered": 842,
+      "replied": 47,
+      "positive": 7,
+      "meetings": 1
     },
     "rates": {
-      "acceptance": 19.6,
-      "replyOfAccepted": 27.5,
-      "replyOfSent": 5.4
+      "acceptance": 20.0,
+      "replyOfAccepted": 28.0,
+      "replyOfSent": 5.6
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "11 of 33",
-      "rankPos": "8 of 33",
-      "rankMtg": "33 of 33"
+      "rankAcc": "19 of 33",
+      "rankPos": "16 of 33",
+      "rankMtg": "21 of 33"
     },
     "weekly": [
       {
@@ -7861,106 +7473,102 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 27000,
-      "currentHigh": 54000,
-      "currentMeetings": 0,
-      "basis": "9 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 21000,
+      "currentHigh": 42000,
+      "currentMeetings": 1,
+      "basis": "7 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 7,
+          "positive": 3,
           "meetings": 0,
-          "low": 21600,
-          "high": 43200
+          "low": 9000,
+          "high": 18000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 23,
-          "meetings": 0,
-          "low": 70200,
-          "high": 140400
+          "positive": 9,
+          "meetings": 1,
+          "low": 27000,
+          "high": 54000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 47,
-          "meetings": 0,
-          "low": 140400,
-          "high": 280800
+          "positive": 18,
+          "meetings": 3,
+          "low": 54000,
+          "high": 108000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 94,
-          "meetings": 0,
-          "low": 280800,
-          "high": 561600
+          "positive": 36,
+          "meetings": 5,
+          "low": 108000,
+          "high": 216000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
+      {
+        "key": "positive_meeting_booked",
+        "label": "Meeting booked",
+        "tone": "positive",
+        "count": 1
+      },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 9
+        "count": 6
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 6
+        "count": 13
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 5
+        "count": 18
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 10
+        "count": 9
       }
     ],
-    "intent": [
-      {
-        "label": "Said not a fit",
-        "count": 12
-      },
+        "intent": [
       {
         "label": "Asked for more info",
-        "count": 12
+        "count": 26
       },
       {
-        "label": "Asked about role / company",
-        "count": 6
+        "label": "Said not a fit",
+        "count": 17
       },
       {
         "label": "Wants to meet",
-        "count": 4
+        "count": 10
       },
       {
-        "label": "Other",
+        "label": "Asked about role / company",
         "count": 3
       },
       {
-        "label": "Asked about pricing / scope",
+        "label": "Referred someone else",
         "count": 2
       },
       {
-        "label": "Shared Calendly / email",
+        "label": "Asked about pricing / scope",
         "count": 1
       }
     ],
@@ -8051,8 +7659,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -8071,26 +7679,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1327,
-      "requests_sent": 492,
-      "accepted": 89,
-      "reverted": 31,
-      "delivered": 492,
-      "replied": 31,
-      "positive": 8,
-      "meetings": 2
+      "requests_sent": 1011,
+      "accepted": 225,
+      "reverted": 79,
+      "delivered": 1011,
+      "replied": 79,
+      "positive": 11,
+      "meetings": 4
     },
     "rates": {
-      "acceptance": 18.1,
-      "replyOfAccepted": 34.8,
-      "replyOfSent": 6.3
+      "acceptance": 22.3,
+      "replyOfAccepted": 35.1,
+      "replyOfSent": 7.8
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "20 of 33",
-      "rankPos": "10 of 33",
-      "rankMtg": "15 of 33"
+      "rankAcc": "8 of 33",
+      "rankPos": "9 of 33",
+      "rankMtg": "8 of 33"
     },
     "weekly": [
       {
@@ -8125,109 +7733,99 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 24000,
-      "currentHigh": 48000,
-      "currentMeetings": 2,
-      "basis": "8 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 33000,
+      "currentHigh": 66000,
+      "currentMeetings": 4,
+      "basis": "11 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 6,
+          "positive": 4,
           "meetings": 2,
-          "low": 19200,
-          "high": 38400
+          "low": 12000,
+          "high": 24000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 21,
+          "positive": 14,
           "meetings": 5,
-          "low": 62400,
-          "high": 124800
+          "low": 42000,
+          "high": 84000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 42,
+          "positive": 29,
           "meetings": 10,
-          "low": 124800,
-          "high": 249600
+          "low": 87000,
+          "high": 174000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 83,
+          "positive": 57,
           "meetings": 21,
-          "low": 249600,
-          "high": 499200
+          "low": 171000,
+          "high": 342000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 2
+        "count": 4
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 6
+        "count": 7
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 3
+        "count": 21
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 6
+        "count": 29
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 14
+        "count": 18
       }
     ],
-    "intent": [
+        "intent": [
+      {
+        "label": "Asked for more info",
+        "count": 37
+      },
       {
         "label": "Said not a fit",
-        "count": 14
+        "count": 26
       },
       {
         "label": "Wants to meet",
-        "count": 7
-      },
-      {
-        "label": "Asked for more info",
-        "count": 5
-      },
-      {
-        "label": "Other",
-        "count": 4
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 4
+        "count": 23
       },
       {
         "label": "Asked about role / company",
-        "count": 3
+        "count": 9
+      },
+      {
+        "label": "Other",
+        "count": 1
       }
     ],
     "personaSeniority": [
@@ -8299,8 +7897,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -8319,26 +7917,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1329,
-      "requests_sent": 574,
-      "accepted": 76,
-      "reverted": 17,
-      "delivered": 574,
-      "replied": 17,
-      "positive": 4,
-      "meetings": 3
+      "requests_sent": 1218,
+      "accepted": 176,
+      "reverted": 45,
+      "delivered": 1218,
+      "replied": 45,
+      "positive": 5,
+      "meetings": 1
     },
     "rates": {
-      "acceptance": 13.2,
-      "replyOfAccepted": 22.4,
-      "replyOfSent": 3
+      "acceptance": 14.4,
+      "replyOfAccepted": 25.6,
+      "replyOfSent": 3.7
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
       "rankAcc": "32 of 33",
-      "rankPos": "25 of 33",
-      "rankMtg": "6 of 33"
+      "rankPos": "26 of 33",
+      "rankMtg": "23 of 33"
     },
     "weekly": [
       {
@@ -8373,105 +7971,95 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 12000,
-      "currentHigh": 24000,
-      "currentMeetings": 3,
-      "basis": "4 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 15000,
+      "currentHigh": 30000,
+      "currentMeetings": 1,
+      "basis": "5 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 3,
-          "meetings": 2,
-          "low": 9600,
-          "high": 19200
+          "positive": 2,
+          "meetings": 0,
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 10,
-          "meetings": 8,
-          "low": 31200,
-          "high": 62400
+          "positive": 6,
+          "meetings": 1,
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 21,
-          "meetings": 16,
-          "low": 62400,
-          "high": 124800
+          "positive": 13,
+          "meetings": 3,
+          "low": 39000,
+          "high": 78000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 42,
-          "meetings": 31,
-          "low": 124800,
-          "high": 249600
+          "positive": 26,
+          "meetings": 5,
+          "low": 78000,
+          "high": 156000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 3
+        "count": 1
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 1
+        "count": 4
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 4
+        "count": 10
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 1
+        "count": 17
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 8
+        "count": 13
       }
     ],
-    "intent": [
+        "intent": [
+      {
+        "label": "Asked for more info",
+        "count": 21
+      },
       {
         "label": "Said not a fit",
-        "count": 9
+        "count": 20
       },
       {
         "label": "Wants to meet",
-        "count": 4
-      },
-      {
-        "label": "Asked for more info",
-        "count": 3
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 3
+        "count": 9
       },
       {
         "label": "Asked about role / company",
-        "count": 2
+        "count": 6
       },
       {
         "label": "Other",
@@ -8545,8 +8133,8 @@ window.REPORTS = {
     "campaign": "Outreach to Business Consulting & Services in SF & NY - Core ML AI Workflows",
     "window": {
       "start": "Apr 1, 2026",
-      "end": "May 6, 2026",
-      "weeks": 5
+      "end": "Jun 8, 2026",
+      "weeks": 10
     },
     "geography": [
       "San Francisco",
@@ -8565,26 +8153,26 @@ window.REPORTS = {
     ],
     "funnel": {
       "leads_targeted": 1329,
-      "requests_sent": 570,
-      "accepted": 85,
-      "reverted": 26,
-      "delivered": 570,
-      "replied": 26,
-      "positive": 6,
-      "meetings": 2
+      "requests_sent": 1216,
+      "accepted": 220,
+      "reverted": 69,
+      "delivered": 1216,
+      "replied": 69,
+      "positive": 5,
+      "meetings": 5
     },
     "rates": {
-      "acceptance": 14.9,
-      "replyOfAccepted": 30.6,
-      "replyOfSent": 4.6
+      "acceptance": 18.1,
+      "replyOfAccepted": 31.4,
+      "replyOfSent": 5.7
     },
     "benchmarks": {
       "cohortMedAcceptance": 18.8,
       "cohortMedPositive": 6,
       "cohortMedMeetings": 1,
-      "rankAcc": "31 of 33",
-      "rankPos": "20 of 33",
-      "rankMtg": "16 of 33"
+      "rankAcc": "27 of 33",
+      "rankPos": "24 of 33",
+      "rankMtg": "5 of 33"
     },
     "weekly": [
       {
@@ -8619,109 +8207,95 @@ window.REPORTS = {
       }
     ],
     "pipeline": {
-      "currentLow": 18000,
-      "currentHigh": 36000,
-      "currentMeetings": 2,
-      "basis": "6 positive replies × $3,000–$6,000 per closed engagement",
+      "currentLow": 15000,
+      "currentHigh": 30000,
+      "currentMeetings": 5,
+      "basis": "5 positive replies × $3,000–$6,000 per closed engagement",
       "assumptions": {
-        "deal_size_monthly_usd": {
-          "low": 1000,
-          "high": 2000
-        },
+        "deal_size_monthly_usd": {"low": 1000, "high": 2000},
         "minimum_engagement_months": 3,
-        "deal_value_per_close_usd": {
-          "low": 3000,
-          "high": 6000
-        },
+        "deal_value_per_close_usd": {"low": 3000, "high": 6000},
         "note": "Deal value range reflects typical US contractual / part-time engagements at $1K–$2K monthly over a 3-month minimum. Many engagements run longer, so this is a floor. Positive replies count only sentiment in {positive_meeting_booked, positive_interested}."
       },
       "projections": [
         {
           "label": "Next 4 weeks",
-          "positive": 5,
+          "positive": 2,
           "meetings": 2,
-          "low": 14400,
-          "high": 28800
+          "low": 6000,
+          "high": 12000
         },
         {
           "label": "Next 13 weeks",
-          "positive": 16,
-          "meetings": 5,
-          "low": 46800,
-          "high": 93600
+          "positive": 6,
+          "meetings": 6,
+          "low": 18000,
+          "high": 36000
         },
         {
           "label": "Next 26 weeks",
-          "positive": 31,
-          "meetings": 10,
-          "low": 93600,
-          "high": 187200
+          "positive": 13,
+          "meetings": 13,
+          "low": 39000,
+          "high": 78000
         },
         {
           "label": "Next 52 weeks",
-          "positive": 62,
-          "meetings": 21,
-          "low": 187200,
-          "high": 374400
+          "positive": 26,
+          "meetings": 26,
+          "low": 78000,
+          "high": 156000
         }
       ]
     },
-    "sentiment": [
+        "sentiment": [
       {
         "key": "positive_meeting_booked",
         "label": "Meeting booked",
         "tone": "positive",
-        "count": 2
+        "count": 4
       },
       {
         "key": "positive_interested",
         "label": "Interested",
         "tone": "positive",
-        "count": 4
+        "count": 1
       },
       {
         "key": "neutral_curious_question",
         "label": "Curious / question",
         "tone": "neutral",
-        "count": 4
+        "count": 17
       },
       {
         "key": "neutral_not_now_circle_back",
         "label": "Not now / circle back",
         "tone": "neutral",
-        "count": 3
+        "count": 33
       },
       {
         "key": "negative_polite_decline",
         "label": "Polite decline",
         "tone": "negative",
-        "count": 13
+        "count": 14
       }
     ],
-    "intent": [
+        "intent": [
       {
         "label": "Said not a fit",
-        "count": 13
+        "count": 33
       },
       {
         "label": "Asked for more info",
-        "count": 8
-      },
-      {
-        "label": "Shared Calendly / email",
-        "count": 4
+        "count": 28
       },
       {
         "label": "Wants to meet",
-        "count": 3
+        "count": 18
       },
       {
-        "label": "Other",
-        "count": 1
-      },
-      {
-        "label": "Referred someone else",
-        "count": 1
+        "label": "Asked about role / company",
+        "count": 7
       }
     ],
     "personaSeniority": [

@@ -25,7 +25,7 @@ function App() {
         activeId={activeId} onSelect={openStudent} cohort={cohort}/>
       <main data-screen-label={view === "cohort" ? "Cohort" : "Report"}>
         {view === "cohort"
-          ? <CohortDashboard cohort={cohort} totals={totals} weekly={weekly} onOpenStudent={openStudent}/>
+          ? <CohortDashboard cohort={cohort} totals={totals} weekly={weekly} highlights={window.COHORT_HIGHLIGHTS} onOpenStudent={openStudent}/>
           : <ReportCard report={report} onBack={goCohort}/>}
       </main>
     </div>
